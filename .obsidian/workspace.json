@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "西方哲学史.md",
+                "file": "计划标准.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "西方哲学史.md",
+                "file": "计划标准.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "西方哲学史.md",
+                "file": "计划标准.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "西方哲学史.md"
+                "file": "计划标准.md"
               }
             }
           },
@@ -154,14 +154,15 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "2c2944275612f604",
+  "active": "75229478e52ac6ff",
   "lastOpenFiles": [
-    "西方哲学史.md",
-    "README.md",
     "计划书.md",
-    "量子力学.md",
-    "目录.md",
+    "README.md",
+    "西方哲学史.md",
+    "计划标准.md",
+    "微分几何和广义相对论.md",
     "日语学习笔记.md",
-    "微分几何和广义相对论.md"
+    "目录.md",
+    "量子力学.md"
   ]
 }
