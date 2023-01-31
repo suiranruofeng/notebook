@@ -11,12 +11,8 @@
             "id": "2c2944275612f604",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "计划标准.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "计划标准.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "计划标准.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "计划标准.md"
-              }
+              "state": {}
             }
           },
           {
@@ -154,12 +146,12 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "75229478e52ac6ff",
+  "active": "2c2944275612f604",
   "lastOpenFiles": [
+    "计划标准.md",
     "计划书.md",
     "README.md",
     "西方哲学史.md",
-    "计划标准.md",
     "微分几何和广义相对论.md",
     "日语学习笔记.md",
     "目录.md",
