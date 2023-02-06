@@ -138,8 +138,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -156,7 +155,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "2c2944275612f604",
+  "active": "a833e17652c48857",
   "lastOpenFiles": [
     "计划标准.md",
     "计划书.md",
