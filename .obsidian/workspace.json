@@ -13,13 +13,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "西方哲学史.md",
+                "file": "微分几何和广义相对论.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "7ee7cc76d2d36019",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.1.16"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,8 +80,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 204.5,
-    "collapsed": true
+    "width": 204.5
   },
   "right": {
     "id": "f50c300e18cc0c97",
@@ -86,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "西方哲学史.md",
+                "file": "微分几何和广义相对论.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "西方哲学史.md",
+                "file": "微分几何和广义相对论.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "西方哲学史.md"
+                "file": "微分几何和广义相对论.md"
               }
             }
           },
@@ -156,7 +166,7 @@
       "canvas:Create new canvas": false
     }
   },
-  "active": "63d613362aee82f0",
+  "active": "7ee7cc76d2d36019",
   "lastOpenFiles": [
     "西方哲学史.md",
     "计划标准.md",
