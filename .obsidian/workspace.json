@@ -8,11 +8,15 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4f85a282530410c4",
+            "id": "70f345b5afd89731",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "广义相对论.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -89,13 +93,14 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "广义相对论.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -105,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "广义相对论.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "广义相对论.md"
+              }
             }
           },
           {
@@ -137,13 +145,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 315.5,
-    "collapsed": true
+    "width": 315.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -155,15 +161,18 @@
       "canvas:Create new canvas": false
     }
   },
-  "active": "75229478e52ac6ff",
+  "active": "a833e17652c48857",
   "lastOpenFiles": [
-    "微分几何和广义相对论.md",
-    "量子力学.md",
-    "西方哲学史.md",
-    "目录.md",
-    "日语学习笔记.md",
+    "prev/README.md",
+    "广义相对论.md",
+    "广义相对论",
+    "prev",
+    "prev/微分几何和广义相对论.md",
+    "prev/量子力学.md",
+    "prev/西方哲学史.md",
+    "prev/目录.md",
+    "prev/日语学习笔记.md",
     "计划标准.md",
-    "计划书.md",
-    "README.md"
+    "计划书.md"
   ]
 }
