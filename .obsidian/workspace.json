@@ -160,8 +160,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 315.5,
-    "collapsed": true
+    "width": 315.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -173,7 +172,7 @@
       "canvas:Create new canvas": false
     }
   },
-  "active": "c8dceeda328d162e",
+  "active": "90673de0a27d8e01",
   "lastOpenFiles": [
     "广义相对论.md",
     "第一次作业.md",
