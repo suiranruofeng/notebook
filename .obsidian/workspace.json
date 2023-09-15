@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "恒星物理基础第一次作业.md",
+                "file": "广义相对论第一次作业.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "恒星物理基础第一次作业.md",
+                "file": "广义相对论第一次作业.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "恒星物理基础第一次作业.md",
+                "file": "广义相对论第一次作业.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "恒星物理基础第一次作业.md"
+                "file": "广义相对论第一次作业.md"
               }
             }
           },
@@ -174,9 +174,9 @@
   },
   "active": "90673de0a27d8e01",
   "lastOpenFiles": [
-    "README.md",
     "恒星物理基础第一次作业.md",
-    "广义相对论.md",
+    "README.md",
+    "广义相对论第一次作业.md",
     "广义相对论",
     "prev",
     "prev/微分几何和广义相对论.md",
