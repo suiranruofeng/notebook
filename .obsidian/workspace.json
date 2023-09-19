@@ -97,7 +97,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 204.5
+    "width": 204.5,
+    "collapsed": true
   },
   "right": {
     "id": "f50c300e18cc0c97",
@@ -196,11 +197,11 @@
   "active": "7f74c7263976f6fa",
   "lastOpenFiles": [
     "广义相对论第一次作业.md",
+    "prev/日语学习笔记.md",
     "恒星物理基础第一次作业.md",
     "prev/量子力学.md",
     "prev/西方哲学史.md",
     "prev/目录.md",
-    "prev/日语学习笔记.md",
     "prev/微分几何和广义相对论.md",
     "README.md",
     "广义相对论",
