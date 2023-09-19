@@ -15,9 +15,29 @@
               "state": {
                 "file": "恒星物理基础第一次作业.md",
                 "mode": "source",
+                "source": true
+              }
+            },
+            "group": "732770d0ab8a337e"
+          }
+        ]
+      },
+      {
+        "id": "ea53ae4518b6779b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3a51a77b9d7c4ed6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "恒星物理基础第一次作业.md",
+                "mode": "source",
                 "source": false
               }
-            }
+            },
+            "group": "732770d0ab8a337e"
           }
         ]
       }
