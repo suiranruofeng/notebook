@@ -180,7 +180,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 315.5
+    "width": 315.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -192,7 +193,7 @@
       "canvas:Create new canvas": false
     }
   },
-  "active": "7331c4d01de7a177",
+  "active": "384604628e758977",
   "lastOpenFiles": [
     "恒星物理基础第一次作业.md",
     "天统作业.md",
