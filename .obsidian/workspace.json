@@ -8,36 +8,36 @@
         "type": "tabs",
         "children": [
           {
-            "id": "384604628e758977",
+            "id": "bc0e0e3647a9eb27",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "天统作业.md",
+                "file": "恒星物理基础第二次作业.md",
                 "mode": "source",
                 "source": true
               }
             },
-            "group": "bbefb3361c23c94e"
+            "group": "faf7b8f1e5c0a380"
           }
         ]
       },
       {
-        "id": "2160cb14a656cc3a",
+        "id": "411998e6bb5c5a3c",
         "type": "tabs",
         "children": [
           {
-            "id": "7331c4d01de7a177",
+            "id": "f1d506d8904d7a52",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "天统作业.md",
+                "file": "恒星物理基础第二次作业.md",
                 "mode": "source",
                 "source": false
               }
             },
-            "group": "bbefb3361c23c94e"
+            "group": "faf7b8f1e5c0a380"
           }
         ]
       }
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "天统作业.md",
+                "file": "恒星物理基础第二次作业.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "天统作业.md",
+                "file": "恒星物理基础第二次作业.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "天统作业.md"
+                "file": "恒星物理基础第二次作业.md"
               }
             }
           },
@@ -193,9 +193,10 @@
       "canvas:Create new canvas": false
     }
   },
-  "active": "384604628e758977",
+  "active": "bc0e0e3647a9eb27",
   "lastOpenFiles": [
     "恒星物理基础第一次作业.md",
+    "恒星物理基础第二次作业.md",
     "天统作业.md",
     "广义相对论第一次作业.md",
     "天统作业",
