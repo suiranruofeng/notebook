@@ -14,30 +14,10 @@
               "type": "markdown",
               "state": {
                 "file": "恒星物理基础第二次作业.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               }
-            },
-            "group": "faf7b8f1e5c0a380"
-          }
-        ]
-      },
-      {
-        "id": "411998e6bb5c5a3c",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "f1d506d8904d7a52",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "恒星物理基础第二次作业.md",
-                "mode": "source",
-                "source": false
-              }
-            },
-            "group": "faf7b8f1e5c0a380"
+            }
           }
         ]
       }
