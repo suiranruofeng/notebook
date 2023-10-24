@@ -18,33 +18,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "0de66b8f004caadc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "恒星物理基础第三次作业.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9ace92b74406f9eb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "恒星物理基础第五次作业.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "stacked": true
       }
     ],
     "direction": "vertical"
@@ -118,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "恒星物理基础第五次作业.md",
+                "file": "天统作业.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,18 +102,6 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": false
-              }
-            }
-          },
-          {
-            "id": "eb8ab01d79449f07",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "恒星物理基础第五次作业.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
               }
             }
           },
@@ -153,12 +117,24 @@
             }
           },
           {
+            "id": "eb8ab01d79449f07",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "天统作业.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
             "id": "8ecda18d3c9a6874",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "恒星物理基础第五次作业.md"
+                "file": "天统作业.md"
               }
             }
           },
@@ -185,8 +161,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 315.5,
-    "collapsed": true
+    "width": 315.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -198,12 +173,12 @@
       "canvas:Create new canvas": false
     }
   },
-  "active": "9ace92b74406f9eb",
+  "active": "db324d00203f6b1f",
   "lastOpenFiles": [
+    "恒星物理基础第三次作业.md",
+    "恒星物理基础第五次作业.md",
     "单参数模型.md",
     "天统作业.md",
-    "恒星物理基础第五次作业.md",
-    "恒星物理基础第三次作业.md",
     "恒星物理基础第二次作业.md",
     "恒星物理基础第四次作业.md",
     "恒星物理基础第一次作业.md",
