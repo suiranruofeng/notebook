@@ -15,7 +15,7 @@
               "state": {
                 "file": "恒星物理基础第六次作业.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           }
@@ -157,7 +157,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
