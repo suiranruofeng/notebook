@@ -4,50 +4,43 @@
     "type": "split",
     "children": [
       {
-        "id": "72addbf22a4f0ef3",
-        "type": "split",
+        "id": "3bd86b31ad91b8ab",
+        "type": "tabs",
         "children": [
           {
-            "id": "3bd86b31ad91b8ab",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "01ba455c22ebeec2",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "恒星物理基础第六次作业.md",
-                    "mode": "source",
-                    "source": true
-                  }
-                },
-                "group": "5cefe707ccf99c8d"
+            "id": "01ba455c22ebeec2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "恒星物理基础第六次作业.md",
+                "mode": "source",
+                "source": true
               }
-            ],
-            "stacked": true
-          },
-          {
-            "id": "18abc9163c73dbb9",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "477c06376a018a30",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "恒星物理基础第六次作业.md",
-                    "mode": "preview",
-                    "source": true
-                  }
-                },
-                "group": "5cefe707ccf99c8d"
-              }
-            ]
+            },
+            "group": "5cefe707ccf99c8d"
           }
         ],
-        "direction": "horizontal"
+        "stacked": true
+      },
+      {
+        "id": "263e069beb5b8659",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "477c06376a018a30",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "恒星物理基础第六次作业.md",
+                "mode": "preview",
+                "source": true
+              }
+            },
+            "group": "5cefe707ccf99c8d"
+          }
+        ]
       }
     ],
     "direction": "vertical"
