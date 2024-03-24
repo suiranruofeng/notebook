@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "恒星物理基础第五次作业.md",
+                "file": "大纲.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "恒星物理基础第五次作业.md",
+                "file": "大纲.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "恒星物理基础第五次作业.md",
+                "file": "大纲.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "恒星物理基础第五次作业.md"
+                "file": "大纲.md"
               }
             }
           },
@@ -152,7 +152,9 @@
             "state": {
               "type": "all-properties",
               "state": {
-                "sortOrder": "frequency"
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
               }
             }
           }
@@ -176,21 +178,24 @@
   },
   "active": "70e48f2fb688ba6c",
   "lastOpenFiles": [
-    "Untitled.md",
-    "恒星物理基础第五次作业.md",
     "恒星物理基础第六次作业.md",
-    "大纲.md",
     "恒星物理基础第四次作业.md",
     "恒星物理基础第二次作业.md",
+    "恒星物理基础第五次作业.md",
     "恒星物理基础第三次作业.md",
-    "天统作业.md",
     "恒星物理基础第一次作业.md",
+    "天统作业.md",
+    "关于切矢.md",
+    "GW/Basic.pdf",
+    "GW/GW_learn.pdf",
+    "GW/引力与引力波.pdf",
+    "Untitled.md",
+    "大纲.md",
     "Untitled.canvas",
     "Untitled 1.canvas",
     "Untitled 2.canvas",
     "Untitled 3.canvas",
     "广义相对论第一次作业.md",
-    "关于切矢.md",
     "README.md",
     "image/Pasted image 20231008205454.png",
     "prev/西方哲学史.md",
