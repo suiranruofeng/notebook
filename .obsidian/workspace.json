@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "b559ddc1e9507ce0",
+        "id": "1f42779ea8f41b59",
         "type": "tabs",
         "children": [
           {
-            "id": "d84f5f0a66cccb86",
+            "id": "6247dd9d522589b7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "高能天体物理作业.md",
+                "file": "Cosmology/Cosmology.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f980e6bcc465e6c9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Newtonian Perturbation Theory.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -94,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "高能天体物理作业.md",
+                "file": "Newtonian Perturbation Theory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "高能天体物理作业.md",
+                "file": "Newtonian Perturbation Theory.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "高能天体物理作业.md"
+                "file": "Newtonian Perturbation Theory.md"
               }
             }
           },
@@ -175,21 +188,29 @@
       "canvas:Create new canvas": false
     }
   },
-  "active": "d84f5f0a66cccb86",
+  "active": "f980e6bcc465e6c9",
   "lastOpenFiles": [
+    "Cosmology/Cosmology.md",
+    "Newtonian Perturbation Theory.md",
+    "Pasted image 20240428152208.png",
+    "Pasted image 20240428152738.png",
+    "Pasted image 20240428153424.png",
+    "Pasted image 20240428155409.png",
+    "GW/引力与引力波.pdf",
+    "Cosmology",
+    "GW/GW_learn.pdf",
+    "GW/Basic.pdf",
+    "天统作业.md",
+    "关于切矢.md",
     "高能天体物理作业 1.md",
-    "高能天体物理作业.md",
+    "HUGO.md",
     "踩过的坑.md",
+    "高能天体物理作业.md",
     "image/Pasted image 20240329122758.png",
     "image/Pasted image 20231008205454.png",
-    "Pasted image 20240428155409.png",
-    "Pasted image 20240428153424.png",
-    "Pasted image 20240428152738.png",
-    "Pasted image 20240428152208.png",
     "恒星物理基础第四次作业.md",
     "恒星物理基础第六次作业.md",
     "恒星物理基础第五次作业.md",
-    "天统作业.md",
     "恒星物理基础第三次作业.md",
     "恒星物理基础第二次作业.md",
     "Draft.md",
@@ -199,23 +220,17 @@
     "Palatini equation.md",
     "String Theory",
     "README.md",
-    "关于切矢.md",
     "Untitled.canvas",
     "2024-03-29.md",
     "行列式变分.md",
     "恒星物理基础第一次作业.md",
     "中特大纲.md",
-    "GW/Basic.pdf",
-    "GW/GW_learn.pdf",
-    "GW/引力与引力波.pdf",
     "Untitled 1.canvas",
     "Untitled 2.canvas",
     "Untitled 3.canvas",
     "广义相对论第一次作业.md",
     "prev/西方哲学史.md",
     "prev/目录.md",
-    "prev/量子力学.md",
-    "prev/日语学习笔记.md",
     "image",
     "天统作业",
     "广义相对论",
