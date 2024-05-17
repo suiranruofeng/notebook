@@ -8,31 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6247dd9d522589b7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cosmology/Cosmology.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "f980e6bcc465e6c9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Newtonian Perturbation Theory.md",
+                "file": "Cosmology/Newtonian Perturbation Theory.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -107,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Newtonian Perturbation Theory.md",
+                "file": "Cosmology/Newtonian Perturbation Theory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Newtonian Perturbation Theory.md",
+                "file": "Cosmology/Newtonian Perturbation Theory.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Newtonian Perturbation Theory.md"
+                "file": "Cosmology/Newtonian Perturbation Theory.md"
               }
             }
           },
@@ -190,8 +177,10 @@
   },
   "active": "f980e6bcc465e6c9",
   "lastOpenFiles": [
+    "恒星物理基础第三次作业.md",
+    "Cosmology/Newtonian Perturbation Theory.md",
     "Cosmology/Cosmology.md",
-    "Newtonian Perturbation Theory.md",
+    "Modern Cosmology homework.md",
     "Pasted image 20240428152208.png",
     "Pasted image 20240428152738.png",
     "Pasted image 20240428153424.png",
@@ -211,10 +200,8 @@
     "恒星物理基础第四次作业.md",
     "恒星物理基础第六次作业.md",
     "恒星物理基础第五次作业.md",
-    "恒星物理基础第三次作业.md",
     "恒星物理基础第二次作业.md",
     "Draft.md",
-    "Modern Cosmology homework.md",
     "String Theory/homework.md",
     "String Theory/String Stheory.md",
     "Palatini equation.md",
