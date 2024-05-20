@@ -35,7 +35,7 @@ $$
 $$
 \delta P =\frac{\partial P}{\partial\rho}\delta \rho \equiv c_s^2 \delta \rho
 $$
-这里面$c_s$就是流体的声速。
+这里面$c_s$就是流体的声速（**声速是介质中微弱压强扰动的传播速度**）。
 那我们$\eqref{4.1.6}$式子就可以变成
 $$
 (\partial_t^2-c_s^2 \nabla^2_r)\delta \rho=0 \tag{4.1.7}\label{4.1.7}
@@ -107,4 +107,23 @@ $$
 $$
 
 ## 膨胀的空间
-现在考虑膨胀的空间而非上面的静止的空间
+
+现在考虑膨胀的空间而非上面的静止的空间，首先膨胀可以用物理坐标$\boldsymbol{r}$和共动坐标$\boldsymbol{x}$来定义
+$$
+\boldsymbol{r}=a(t)\boldsymbol{x}
+$$
+那么物理速度就可以写成
+$$
+\boldsymbol{u}(t)=\dot{\boldsymbol{r}}=\dot{a}\boldsymbol{x}+\dot{\boldsymbol{x}}a=\frac{\dot{a}}{a}a\boldsymbol{x}+a\dot{\boldsymbol{x}}=H\boldsymbol{r}+\boldsymbol{v}
+$$
+静态时空中对时间的导数$\partial_t$和对空间的导数$\nabla_\boldsymbol{r}$是分离的，但是在膨胀的时空中$\boldsymbol{r}$和$t$有关，我们可以直接对共动坐标求导，关系是这样的
+$$
+\nabla_\boldsymbol{r}=a^{-1}(t)\nabla_{\boldsymbol{x}} \tag{4.1.17}
+$$
+在这样的情形下，我们之前讨论的连续性方程和欧拉方程又会怎样呢？
+
+
+# Jeans不稳定性（Jeans’ Instability）
+
+
+# 哈勃尺度内的暗物质

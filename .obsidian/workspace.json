@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f980e6bcc465e6c9",
+            "id": "fe4beefcf1cbfec7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cosmology/Newtonian Perturbation Theory.md",
+                "file": "Unit 10 Text A - UCAS English course.md",
                 "mode": "source",
                 "source": false
               }
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 204.5
+    "width": 204.5,
+    "collapsed": true
   },
   "right": {
     "id": "f50c300e18cc0c97",
@@ -94,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cosmology/Newtonian Perturbation Theory.md",
+                "file": "Unit 10 Text A - UCAS English course.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cosmology/Newtonian Perturbation Theory.md",
+                "file": "Unit 10 Text A - UCAS English course.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cosmology/Newtonian Perturbation Theory.md"
+                "file": "Unit 10 Text A - UCAS English course.md"
               }
             }
           },
@@ -175,49 +176,49 @@
       "canvas:Create new canvas": false
     }
   },
-  "active": "f980e6bcc465e6c9",
+  "active": "fe4beefcf1cbfec7",
   "lastOpenFiles": [
-    "恒星物理基础第三次作业.md",
-    "Cosmology/Newtonian Perturbation Theory.md",
-    "Cosmology/Cosmology.md",
-    "Modern Cosmology homework.md",
-    "Pasted image 20240428152208.png",
-    "Pasted image 20240428152738.png",
-    "Pasted image 20240428153424.png",
-    "Pasted image 20240428155409.png",
-    "GW/引力与引力波.pdf",
-    "Cosmology",
-    "GW/GW_learn.pdf",
-    "GW/Basic.pdf",
-    "天统作业.md",
-    "关于切矢.md",
-    "高能天体物理作业 1.md",
-    "HUGO.md",
-    "踩过的坑.md",
-    "高能天体物理作业.md",
-    "image/Pasted image 20240329122758.png",
-    "image/Pasted image 20231008205454.png",
     "恒星物理基础第四次作业.md",
+    "Unit 10 Text A - UCAS English course.md",
     "恒星物理基础第六次作业.md",
     "恒星物理基础第五次作业.md",
     "恒星物理基础第二次作业.md",
+    "恒星物理基础第三次作业.md",
+    "恒星物理基础第一次作业.md",
+    "天统作业.md",
+    "关于切矢.md",
+    "HUGO.md",
+    "高能天体物理作业 1.md",
+    "GW/引力与引力波.pdf",
+    "GW/GW_learn.pdf",
+    "GW/Basic.pdf",
+    "Cosmology/Newtonian Perturbation Theory.md",
+    "Cosmology/Cosmology.md",
+    "踩过的坑.md",
+    "Pasted image 20240428153424.png",
+    "Pasted image 20240428155409.png",
+    "README.md",
+    "中特大纲.md",
+    "Modern Cosmology homework.md",
+    "Pasted image 20240428152208.png",
+    "Pasted image 20240428152738.png",
+    "Cosmology",
+    "高能天体物理作业.md",
+    "image/Pasted image 20240329122758.png",
+    "image/Pasted image 20231008205454.png",
     "Draft.md",
     "String Theory/homework.md",
     "String Theory/String Stheory.md",
     "Palatini equation.md",
     "String Theory",
-    "README.md",
     "Untitled.canvas",
     "2024-03-29.md",
     "行列式变分.md",
-    "恒星物理基础第一次作业.md",
-    "中特大纲.md",
     "Untitled 1.canvas",
     "Untitled 2.canvas",
     "Untitled 3.canvas",
     "广义相对论第一次作业.md",
     "prev/西方哲学史.md",
-    "prev/目录.md",
     "image",
     "天统作业",
     "广义相对论",
