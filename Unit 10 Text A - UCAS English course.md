@@ -1,3 +1,5 @@
+# Unit 10 The Doctor's Dilemma: ls lt Ever Good to Do Harm?        
+医生的困境：伤害永远是好事吗？ 
 
 First paragraph:  
 Medical knowledge changes swiftly, and technological changes make new and expensive investigations and treatments possible that were only theoretical a few years ago. Life has been extended in length, but not in quality, and the debates about end‑of‑life decisions show us how much the notion of a "good life" is bound up with the absence of disease, illness and suffering.
@@ -87,6 +89,7 @@ Medicine needs a way of thinking about ethics that addresses different moral val
 医学需要一种能够解决不同道德价值观和直觉的伦理思维方式。目前仍不清楚我们如何培养医生成为善良的人,而不仅仅是做好工作和做出正确的选择。
 
 ---
+# Quiz
 _(1) [单选题]_
 
 Which of the following statements best summarizes the attitude of Text A of Unit 10?
@@ -212,3 +215,6 @@ According to Para. 12, what type of medical harm can be acceptable?
 5. C
 
 第十二段提到,社会接受医疗可能会带来并非医生本意的蓄意痛苦,说明只要不是医生的主要目的,某些形式的医疗伤害是可以接受的。
+
+
+*made by Gpt*

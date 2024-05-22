@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Unit 10 Text A - UCAS English course.md",
+                "file": "Group theory.md",
                 "mode": "source",
                 "source": false
               }
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 204.5,
-    "collapsed": true
+    "width": 204.5
   },
   "right": {
     "id": "f50c300e18cc0c97",
@@ -95,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Unit 10 Text A - UCAS English course.md",
+                "file": "Group theory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Unit 10 Text A - UCAS English course.md",
+                "file": "Group theory.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Unit 10 Text A - UCAS English course.md"
+                "file": "Group theory.md"
               }
             }
           },
@@ -178,8 +177,11 @@
   },
   "active": "fe4beefcf1cbfec7",
   "lastOpenFiles": [
-    "恒星物理基础第四次作业.md",
+    "Cosmology/Newtonian Perturbation Theory.md",
+    "Group theory.md",
+    "Cosmology/Cosmology.md",
     "Unit 10 Text A - UCAS English course.md",
+    "恒星物理基础第四次作业.md",
     "恒星物理基础第六次作业.md",
     "恒星物理基础第五次作业.md",
     "恒星物理基础第二次作业.md",
@@ -192,8 +194,6 @@
     "GW/引力与引力波.pdf",
     "GW/GW_learn.pdf",
     "GW/Basic.pdf",
-    "Cosmology/Newtonian Perturbation Theory.md",
-    "Cosmology/Cosmology.md",
     "踩过的坑.md",
     "Pasted image 20240428153424.png",
     "Pasted image 20240428155409.png",
@@ -218,7 +218,6 @@
     "Untitled 2.canvas",
     "Untitled 3.canvas",
     "广义相对论第一次作业.md",
-    "prev/西方哲学史.md",
     "image",
     "天统作业",
     "广义相对论",
