@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "General Relativity/GR1-Special Relativity.md",
+                "file": "General Relativity/GR-Draft.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "General Relativity/GR1-Special Relativity.md",
+                "file": "General Relativity/GR-Draft.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "General Relativity/GR1-Special Relativity.md",
+                "file": "General Relativity/GR-Draft.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "General Relativity/GR1-Special Relativity.md"
+                "file": "General Relativity/GR-Draft.md"
               }
             }
           },
@@ -177,39 +177,40 @@
   },
   "active": "236fbcc35fb31e98",
   "lastOpenFiles": [
-    "GW/引力与引力波.pdf",
-    "General Relativity/GR1-Special Relativity.md",
-    "Latex.md",
-    "General Relativity",
-    "GW/Basic.pdf",
-    "GW/GW_learn.pdf",
-    "Numerical Ways.md",
+    "Cosmology/Newtonian Perturbation Theory.md",
     "Cosmology/Cosmology.md",
+    "General Relativity/GR-Draft.md",
     "高能天体物理作业.md",
-    "Pasted image 20240428152208.png",
-    "Pasted image 20240428152738.png",
-    "Pasted image 20240428153424.png",
-    "Pasted image 20240428155409.png",
-    "高能天体物理作业 1.md",
+    "踩过的坑.md",
+    "行列式变分.md",
     "恒星物理基础第四次作业.md",
     "恒星物理基础第六次作业.md",
-    "Unit 10 Text A - UCAS English course.md",
-    "行列式变分.md",
-    "Cosmology/Newtonian Perturbation Theory.md",
-    "CV.md",
-    "Draft.md",
-    "Group theory.md",
     "恒星物理基础第五次作业.md",
     "恒星物理基础第二次作业.md",
     "恒星物理基础第三次作业.md",
     "恒星物理基础第一次作业.md",
     "天统作业.md",
     "关于切矢.md",
-    "HUGO.md",
-    "踩过的坑.md",
-    "README.md",
     "中特大纲.md",
+    "Unit 10 Text A - UCAS English course.md",
+    "README.md",
+    "Pasted image 20240428152738.png",
+    "Pasted image 20240428152208.png",
+    "Palatini equation.md",
+    "Numerical Ways.md",
     "Modern Cosmology homework.md",
+    "Latex.md",
+    "HUGO.md",
+    "General Relativity/GR1-Special Relativity.md",
+    "GW/引力与引力波.pdf",
+    "General Relativity",
+    "GW/Basic.pdf",
+    "GW/GW_learn.pdf",
+    "Pasted image 20240428153424.png",
+    "Pasted image 20240428155409.png",
+    "高能天体物理作业 1.md",
+    "CV.md",
+    "Draft.md",
     "Cosmology",
     "image/Pasted image 20240329122758.png",
     "image/Pasted image 20231008205454.png",
