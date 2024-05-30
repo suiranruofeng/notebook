@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "General Relativity/GR-Draft.md",
+                "file": "General Relativity/Learn GR in short time.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "General Relativity/GR-Draft.md",
+                "file": "General Relativity/Learn GR in short time.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "General Relativity/GR-Draft.md",
+                "file": "General Relativity/Learn GR in short time.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "General Relativity/GR-Draft.md"
+                "file": "General Relativity/Learn GR in short time.md"
               }
             }
           },
@@ -177,10 +177,10 @@
   },
   "active": "236fbcc35fb31e98",
   "lastOpenFiles": [
-    "General Relativity/Learn GR in short time.md",
-    "General Relativity/GR-Draft.md",
     "General Relativity/GR1-Special Relativity.md",
     "Draft.md",
+    "General Relativity/Learn GR in short time.md",
+    "General Relativity/GR-Draft.md",
     "Cosmology/Newtonian Perturbation Theory.md",
     "Cosmology/Cosmology.md",
     "高能天体物理作业.md",
