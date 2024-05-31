@@ -14,14 +14,14 @@
 - TCG：GCRS中的坐标时
 - TAI：国际原子时
 - TT：地球时，与TAI仅相差固定常数
-- 尺缩效应：
-- 钟慢效应：运动的时钟变慢，光线是长度为0的曲线
+- 尺缩效应：沿杆子方向运动的杆子的长度比它静止时的长度短
+- 钟慢效应：运动的时钟变慢。光线是长度为0，$ds^2=0$的曲线
 - 双生子佯谬：
 - 车库佯谬：
-- 闵科夫斯基时空是平直的，导数算符是兼容度规张量的，曲率张量为0
 - 标准钟：时间读数=线长
 - 固有时（原时）具有物理意义，依赖模型
 - 坐标时没有物理意义，依赖模型
+- 固有时和坐标时的关系
 - 能动张量：分为点粒子的和理想流体的
 - 四维坐标$$X^\mu=(ct,x^i(t))$$
 - 时间膨胀$$t=\gamma \tau$$
@@ -39,12 +39,13 @@
 ## 几个重要公式
 - 黎曼张量和度规的关系$$R_{abcd}=g^{de}R_{abc}^{\ \ \ \ \ \ e}$$
 - 测地线方程$$\frac{d^2 x^\mu}{dt^2}+\Gamma^\mu_{\ \ \upsilon\sigma}\frac{d x^\upsilon}{dt} \frac{d x^\sigma}{dt} = 0$$
+- 张量的协变导数 $$T^\upsilon_{\ \ \sigma;\mu}=T^\upsilon_{\ \ \sigma,\mu}+\Gamma^{\upsilon}_{\ \ \mu\alpha}T^\alpha_{\ \ \sigma}-\Gamma^{\alpha}_{\ \ \mu\sigma}T^\upsilon_{\ \ \alpha}$$
 - 克氏符$$\Gamma^\sigma_{\ \ \mu \nu}=\frac{1}{2}g^{\sigma \rho}(g_{\rho \mu,\nu}+g_{\rho \nu,\mu}-g_{\mu \nu,\rho})$$
 - 黎曼张量$$R^{\rho}_{\ \ \mu \upsilon \sigma}=\Gamma^\rho_{\ \ \mu \sigma,\upsilon}-\Gamma^\rho_{\ \ \upsilon \sigma,\mu}+\Gamma^\lambda_{\ \ \sigma\mu}\Gamma^\rho_{\ \ \upsilon \lambda}-\Gamma^\lambda_{\ \ \sigma\upsilon }\Gamma^\rho_{\ \ \mu \lambda}$$
 - PNN度规的标准写法$$\begin{align}
 g_{00}&=-\exp(-\frac{2w}{c^2})=-1+\frac{2w}{c^2}-\frac{2w^2}{c^4}+\mathcal{O_6}\\
 g_{0i}&=-\frac{4w^i}{c^3}\\
-g_{ij}&=\delta_{ij}\exp(\frac{2w}{c^2})+\mathcal{O_4}
+g_{ij}&=\delta_{ij}\exp(\frac{2w}{c^2})+\mathcal{O}_4
 \end{align}$$
 - PNN度规的参数$\beta$（描述了引力场非线性的程度）和$\gamma$（描述了时空弯曲的程度）$$\begin{align}
 g_{00}&=-1+\frac{2w}{c^2}-\beta\frac{4w^2}{c^4}\\
