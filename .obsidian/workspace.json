@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "236fbcc35fb31e98",
+            "id": "3339afca7523f0d8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "General Relativity/Learn GR in short time.md",
+                "file": "S0 Galaxy.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "General Relativity/Learn GR in short time.md",
+                "file": "S0 Galaxy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "General Relativity/Learn GR in short time.md",
+                "file": "S0 Galaxy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "General Relativity/Learn GR in short time.md"
+                "file": "S0 Galaxy.md"
               }
             }
           },
@@ -175,13 +175,23 @@
       "canvas:Create new canvas": false
     }
   },
-  "active": "236fbcc35fb31e98",
+  "active": "3339afca7523f0d8",
   "lastOpenFiles": [
+    "Pasted image 20240602132448.png",
+    "Pasted image 20240602130216.png",
+    "Draft.md",
+    "S0 Galaxy.md",
+    "Quantum Field Theory/Preliminary knowledge.md",
+    "Cosmology/The history of universe.md",
+    "Numerical Ways.md",
+    "Quantum Field Theory",
+    "Cosmology/Newtonian Perturbation Theory.md",
+    "Cosmology/Dark  Energy.md",
+    "String Theory/String Stheory.md",
+    "String Theory/homework.md",
+    "General Relativity/Review GR in short time.md",
     "General Relativity/GR1-Special Relativity.md",
     "General Relativity/GR-Draft.md",
-    "General Relativity/Learn GR in short time.md",
-    "Draft.md",
-    "Cosmology/Newtonian Perturbation Theory.md",
     "Cosmology/Cosmology.md",
     "高能天体物理作业.md",
     "踩过的坑.md",
@@ -195,22 +205,14 @@
     "天统作业.md",
     "关于切矢.md",
     "中特大纲.md",
-    "Unit 10 Text A - UCAS English course.md",
-    "README.md",
     "Pasted image 20240428152738.png",
     "Pasted image 20240428152208.png",
-    "Palatini equation.md",
-    "Numerical Ways.md",
-    "Modern Cosmology homework.md",
-    "Latex.md",
-    "HUGO.md",
     "GW/引力与引力波.pdf",
     "General Relativity",
     "GW/Basic.pdf",
     "GW/GW_learn.pdf",
     "Pasted image 20240428153424.png",
     "Pasted image 20240428155409.png",
-    "高能天体物理作业 1.md",
     "Cosmology",
     "image/Pasted image 20240329122758.png",
     "image/Pasted image 20231008205454.png",
@@ -221,7 +223,6 @@
     "Untitled 3.canvas",
     "image",
     "天统作业",
-    "广义相对论",
-    "prev"
+    "广义相对论"
   ]
 }
