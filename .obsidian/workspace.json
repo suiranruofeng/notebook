@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "S0 Galaxy.md",
+                "file": "S0/S0 Galaxy.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "S0 Galaxy.md",
+                "file": "S0/S0 Galaxy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "S0 Galaxy.md",
+                "file": "S0/S0 Galaxy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "S0 Galaxy.md"
+                "file": "S0/S0 Galaxy.md"
               }
             }
           },
@@ -177,10 +177,21 @@
   },
   "active": "3339afca7523f0d8",
   "lastOpenFiles": [
-    "Pasted image 20240602132448.png",
-    "Pasted image 20240602130216.png",
+    "S0.zip",
+    "S0.zip.hm3o3a.part",
+    "S0/Pasted image 20240602130216.png",
+    "Pasted image 20240428155409.png",
+    "Pasted image 20240428153424.png",
+    "S0/S0 Galaxy.md",
+    "S0/Pasted image 20240602211414.png",
+    "S0",
+    "S0/Pasted image 20240602132448.png",
+    "Pasted image 20240428152738.png",
+    "Pasted image 20240428152208.png",
+    "S0/Pasted image 20240602204134.png",
+    "S0/Pasted image 20240602155406.png",
+    "S0/Pasted image 20240602154724.png",
     "Draft.md",
-    "S0 Galaxy.md",
     "Quantum Field Theory/Preliminary knowledge.md",
     "Cosmology/The history of universe.md",
     "Numerical Ways.md",
@@ -205,24 +216,16 @@
     "天统作业.md",
     "关于切矢.md",
     "中特大纲.md",
-    "Pasted image 20240428152738.png",
-    "Pasted image 20240428152208.png",
     "GW/引力与引力波.pdf",
     "General Relativity",
     "GW/Basic.pdf",
     "GW/GW_learn.pdf",
-    "Pasted image 20240428153424.png",
-    "Pasted image 20240428155409.png",
     "Cosmology",
-    "image/Pasted image 20240329122758.png",
-    "image/Pasted image 20231008205454.png",
     "String Theory",
     "Untitled.canvas",
     "Untitled 1.canvas",
     "Untitled 2.canvas",
     "Untitled 3.canvas",
-    "image",
-    "天统作业",
-    "广义相对论"
+    "image"
   ]
 }
