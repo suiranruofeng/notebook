@@ -29,7 +29,7 @@ $$
 $$
 上边两个式子结合一下（分别乘$\partial_t$和$\nabla_r$然后相加一下）可以得到
 $$
-\partial_t^2 \delta \rho - \nabla_r^2 \delta P=0 \tag{4.1.6} \label{4.1.6}
+\partial_t^2 \delta \rho - \nabla_r^2 \delta P=0 \tag{4.1.6}\label{4.1.6}
 $$
 这里我们想只用$\delta \rho$写这个式子的话，我们可以考虑正压的流体$P=P(\rho)$这样就可以把压强的微扰重新写成
 $$
