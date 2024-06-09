@@ -1,5 +1,5 @@
-物理坐标系$\boldsymbol{r}$
-共动坐标系$\boldsymbol{x}$
+物理坐标系$\boldsymbol{r}$表示真实的距离
+共动坐标系$\boldsymbol{x}$表示剔除宇宙膨胀的距离
 物理距离$\boldsymbol{r}$和共动距离$\boldsymbol{x}$之间的关系，标度因子$a(t)$
 $$
 \boldsymbol{r}=a(t)\boldsymbol{x}

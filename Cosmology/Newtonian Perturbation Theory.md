@@ -1,17 +1,28 @@
 # 牛顿微扰理论
-连续性方程：
+## 三大方程
+连续性方程（质量守恒)：
 $$
-\partial_t \rho=-\nabla_r\cdot(\rho \boldsymbol{u})
+\partial_t \rho=-\nabla_r\cdot(\rho \boldsymbol{u})\tag{4.1.1}
 $$
-描述了在一个固定的体积中，只有一股粒子离开或进入这个体积（用质量的通量$\rho \vec{u}$反映）时，质量密度才会发生变化。
+其中$\boldsymbol{u}$是流体速度。描述了在一个固定的体积的空间中，只有一股粒子离开或进入这个空间（用质量的通量$\rho \vec{u}$反映（通量量纲是[mass/length^2*time]））时，质量密度才会发生变化。
+> 准确的描述是：单位时间内流体微元体中质量的增加，等于同一时间间隔内流入该微元体的净质量
+> 可以想像一个盒子的质量增加=一个立方体盒子8个面流进的质量
 
-欧拉方程
+欧拉方程：
 $$
-(\partial_t+\boldsymbol{u}\cdot \nabla_r)\boldsymbol{u}=\frac{\nabla_r P}{\rho}-\nabla_r \Phi
+(\partial_t+\boldsymbol{u}\cdot \nabla_r)\boldsymbol{u}=\frac{\nabla_r P}{\rho}-\nabla_r \Phi \tag{4.1.2}
 $$
-这里面$D_t \boldsymbol{u}=(\partial_t+\boldsymbol{u}\cdot \nabla_r)\boldsymbol{u}$表示“对流时间导数”。$P=P(\rho,T)$是压强依赖于密度和温度的关系（又叫状态方程equation of state）。后面那一项是势的梯度，表示外力（引力）。
+这里面$D_t \boldsymbol{u}=(\partial_t+\boldsymbol{u}\cdot \nabla_r)\boldsymbol{u}$表示“对流时间导数”(Convective derivative)。$P=P(\rho,T)$是压强依赖于密度和温度的关系（又叫状态方程equation of state）。等号左边第一项等号右边第二项是势的梯度，表示外力（引力）。
+>高中物理的加速度只是$\partial_t \boldsymbol{u}$，那为什么这里这么长呢？
+>在流体力学中有“物质导数”
+>$$\frac{D}{Dt}=\frac{\partial}{\partial t}+\boldsymbol{v}\cdot \nabla_r$$
+>其中$\boldsymbol{v}\cdot \nabla_r=v \frac{\partial}{\partial s}$称为流动项， $\frac{\partial}{\partial s}$是方向沿着速度$v$的方向导数，比如考虑热气球测量大气的温度，假设大气温度在空间的变化$T(\boldsymbol{r},t)$，那热气球所测得的温度变化$\frac{D T}{D t}$不仅源于大气温度变化$\frac{\partial T}{\partial t}$，还源于热气球本身在不均匀温度场中的运动$(\boldsymbol{v}\cdot \nabla_r) T=v\frac{\partial T}{\partial s}$
+>也就是说，如果我们随着流体运动，可以获得不一样的物理量变化结果
+>https://www.zhihu.com/column/c_1540729169268363264 一个比较好的流体力学专栏
 
-接下来对$P$和$\rho$作微扰，其结果里带一横杠的是"背景数"（background values），有$\delta$的项是微扰部分
+泊松方程：$$\nabla_r^2 \Phi=4\pi G \rho \tag{4.1.3}$$
+
+接下来对$P$和$\rho$作微扰，其结果里带一横杠的是"背景数"（background values）表示和位置无关，有$\delta$的项是微扰部分
 $$
 \begin{align}
 \rho(t,\boldsymbol{r}) & =\bar{\rho}(t)+\delta \rho(t,\boldsymbol{r}) \\
@@ -20,7 +31,7 @@ P(t,\boldsymbol{r}) & =\bar{P}(t)+\delta P(t,\boldsymbol{r})
 $$
 ## 没有引力的静态空间
 
-我们考虑一个静态的空间，忽略了引力$\Phi=0$然后把上面两个式子带进连续性方程和欧拉方程里，分别得到（是两个方程的线性化，线性化的内涵是略去高阶微扰）
+我们考虑一个静态（静态意味着物理量不随时间变化比如$\partial_t \bar{\rho}=0$）的空间，忽略了引力$\Phi=0$然后把上面两个式子带进连续性方程和欧拉方程里，分别得到（是两个方程的线性化，线性化的内涵是略去高阶微扰）
 $$
 \begin{align}
 \partial_t \delta \rho&=-\nabla_r \cdot(\bar{\rho} \boldsymbol{u}) \\
@@ -29,7 +40,7 @@ $$
 $$
 上边两个式子结合一下（分别乘$\partial_t$和$\nabla_r$然后相加一下）可以得到
 $$
-\partial_t^2 \delta \rho - \nabla_r^2 \delta P=0 \tag{4.1.6}\label{4.1.6}
+\partial_t^2 \delta \rho - \nabla_r^2 \delta P=0 \tag{4.1.6}
 $$
 这里我们想只用$\delta \rho$写这个式子的话，我们可以考虑正压的流体$P=P(\rho)$这样就可以把压强的微扰重新写成
 $$
@@ -38,7 +49,7 @@ $$
 这里面$c_s$就是流体的声速（**声速是介质中微弱压强扰动的传播速度**）。
 那我们$\eqref{4.1.6}$式子就可以变成
 $$
-(\partial_t^2-c_s^2 \nabla^2_r)\delta \rho=0 \tag{4.1.7}\label{4.1.7}
+(\partial_t^2-c_s^2 \nabla^2_r)\delta \rho=0 \tag{4.1.7}
 $$
 这显然是一个波动方程，那么它的平面波解自然就是
 $$
@@ -51,7 +62,7 @@ $$
 $$
 \delta \rho(t,\boldsymbol{r})=\int\frac{d^3 k}{(2\pi)^3}e^{i\boldsymbol{k\cdot r}}\delta \rho_(t,\boldsymbol{k})
 $$
-带入偏微分方程$\eqref{4.1.7}$就可以得到（空间导数项把$ik$pull down下来变成$-k^2$）
+带入偏微分方程$\eqref{4.1.7}$就可以得到（空间导数项把$ik$拉(pull down)下来变成$-k^2$）
 $$
 (\partial_t^2+c_s^2k^2)\delta \rho_(t,\boldsymbol{k})=0
 $$
