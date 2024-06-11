@@ -121,17 +121,31 @@ $$
 
 现在考虑膨胀的空间而非上面的静止的空间，首先膨胀可以用物理坐标$\boldsymbol{r}$和共动坐标$\boldsymbol{x}$来定义
 $$
-\boldsymbol{r}=a(t)\boldsymbol{x}
+\boldsymbol{r}=a(t)\boldsymbol{x} \tag{4.1.15}
 $$
 那么物理速度就可以写成
 $$
 \boldsymbol{u}(t)=\dot{\boldsymbol{r}}=\dot{a}\boldsymbol{x}+\dot{\boldsymbol{x}}a=\frac{\dot{a}}{a}a\boldsymbol{x}+a\dot{\boldsymbol{x}}=H\boldsymbol{r}+\boldsymbol{v}
 $$
-静态时空中对时间的导数$\partial_t$和对空间的导数$\nabla_\boldsymbol{r}$是分离的，但是在膨胀的时空中$\boldsymbol{r}$和$t$有关，我们可以直接对共动坐标求导，关系是这样的
+其中$\boldsymbol{v}=a\dot{\boldsymbol{x}}$是[peculiar velocity](https://astronomy.swin.edu.au/cosmos/P/Peculiar+Velocity)
+物理坐标下时间导数和共动坐标下空间导数关系是这样的
 $$
 \nabla_\boldsymbol{r}=a^{-1}(t)\nabla_{\boldsymbol{x}} \tag{4.1.17}
 $$
-在这样的情形下，我们之前讨论的连续性方程和欧拉方程又会怎样呢？
+静态时空中对时间的导数$\partial_t$和对空间的导数$\nabla_\boldsymbol{r}$是独立的，但是在膨胀的时空中物理坐标$\boldsymbol{r}$和时间$t$是有关的
+比如对物理量场$f(\boldsymbol{r},t)=f(a(t)\boldsymbol{x},t)$在固定的$\boldsymbol{x}$处的时间导数为
+$$
+\left(\frac{\partial f(a(t)\boldsymbol{x},t)}{\partial t}\right)_\boldsymbol{x}=\left(\frac{\partial f}{\partial t}\right)_\boldsymbol{r}+\frac{\partial (a(t)\boldsymbol{x})}{\partial t}\cdot\frac{\partial f}{\partial \boldsymbol{r}}=\left[\left(\frac{\partial }{\partial t}\right)_\boldsymbol{r}+H \boldsymbol{r}\cdot \nabla_\boldsymbol{r}\right]f
+$$
+所以物理坐标下时间导数和共动坐标下时间导数的关系为
+$$
+(\partial_t)_\boldsymbol{r}=(\partial_t)_\boldsymbol{x}-H \boldsymbol{x}\cdot \nabla_\boldsymbol{x}
+$$
+我们之前讨论的连续性方程和欧拉方程在这种情况下又会怎样呢？
+连续性方程：
+$$
+\frac{\partial \rho}{\partial t}+3H \rho+\frac{1}{a}\nabla \cdot (\rho \boldsymbol{v})=0
+$$
 
 
 # Jeans不稳定性（Jeans’ Instability）
