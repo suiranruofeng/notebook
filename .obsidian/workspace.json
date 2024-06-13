@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ab42f68bb42d012d",
+            "id": "d7e448dd1563fc39",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cosmology/Newtonian Perturbation Theory.md",
+                "file": "Cosmology/Cosmology.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cosmology/Newtonian Perturbation Theory.md",
+                "file": "Cosmology/Cosmology.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cosmology/Newtonian Perturbation Theory.md",
+                "file": "Cosmology/Cosmology.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cosmology/Newtonian Perturbation Theory.md"
+                "file": "Cosmology/Cosmology.md"
               }
             }
           },
@@ -176,12 +176,16 @@
       "markdown-importer:打开 Markdown 格式转换器": false
     }
   },
-  "active": "ab42f68bb42d012d",
+  "active": "d7e448dd1563fc39",
   "lastOpenFiles": [
+    "Cosmology/Gauge theory.md",
+    "Cosmology/Dark  Energy.md",
+    "Cosmology/Cosmology.md",
+    "General Relativity/Review GR in short time.md",
+    "General Relativity/GR1-Special Relativity.md",
+    "General Relativity/GR-Draft.md",
     "Cosmology/The history of universe.md",
     "Cosmology/Newtonian Perturbation Theory.md",
-    "Cosmology/Cosmology.md",
-    "Cosmology/Dark  Energy.md",
     "Fluid Mechanics.md",
     "S0/S0 Galaxy.md",
     "S0/Pasted image 20240602130216.png",
@@ -205,9 +209,6 @@
     "Quantum Field Theory",
     "String Theory/String Stheory.md",
     "String Theory/homework.md",
-    "General Relativity/Review GR in short time.md",
-    "General Relativity/GR1-Special Relativity.md",
-    "General Relativity/GR-Draft.md",
     "高能天体物理作业.md",
     "踩过的坑.md",
     "行列式变分.md",
@@ -217,7 +218,6 @@
     "恒星物理基础第二次作业.md",
     "恒星物理基础第三次作业.md",
     "天统作业.md",
-    "关于切矢.md",
     "GW/引力与引力波.pdf",
     "General Relativity",
     "GW/Basic.pdf",
