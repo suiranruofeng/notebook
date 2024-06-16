@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "1f42779ea8f41b59",
+        "id": "01918bec4f718921",
         "type": "tabs",
         "children": [
           {
-            "id": "d7e448dd1563fc39",
+            "id": "30ccd73c0843e577",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cosmology/Cosmology.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ],
@@ -78,7 +74,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 204.5
+    "width": 204.5,
+    "collapsed": true
   },
   "right": {
     "id": "f50c300e18cc0c97",
@@ -94,7 +91,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cosmology/Cosmology.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +118,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cosmology/Cosmology.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,9 +128,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Cosmology/Cosmology.md"
-              }
+              "state": {}
             }
           },
           {
@@ -163,7 +156,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 315.5
+    "width": 360.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -176,16 +169,21 @@
       "markdown-importer:打开 Markdown 格式转换器": false
     }
   },
-  "active": "d7e448dd1563fc39",
+  "active": "c8dceeda328d162e",
   "lastOpenFiles": [
+    "Cosmology/Observed Cosmology Revise.md",
+    "未命名.md",
+    "Cosmology/Cosmology.md",
+    "Cosmology/_attatchments/Pasted image 20240615104630.png",
+    "Cosmology/_attatchments/Pasted image 20240615104604.png",
+    "Cosmology/_attatchments",
+    "Cosmology/The history of universe.md",
+    "Cosmology/Newtonian Perturbation Theory.md",
     "Cosmology/Gauge theory.md",
     "Cosmology/Dark  Energy.md",
-    "Cosmology/Cosmology.md",
     "General Relativity/Review GR in short time.md",
     "General Relativity/GR1-Special Relativity.md",
     "General Relativity/GR-Draft.md",
-    "Cosmology/The history of universe.md",
-    "Cosmology/Newtonian Perturbation Theory.md",
     "Fluid Mechanics.md",
     "S0/S0 Galaxy.md",
     "S0/Pasted image 20240602130216.png",
@@ -203,8 +201,6 @@
     "Pasted image 20240428152738.png",
     "Pasted image 20240428152208.png",
     "S0/Pasted image 20240602204134.png",
-    "S0/Pasted image 20240602155406.png",
-    "S0/Pasted image 20240602154724.png",
     "Numerical Ways.md",
     "Quantum Field Theory",
     "String Theory/String Stheory.md",
@@ -216,14 +212,11 @@
     "恒星物理基础第六次作业.md",
     "恒星物理基础第五次作业.md",
     "恒星物理基础第二次作业.md",
-    "恒星物理基础第三次作业.md",
-    "天统作业.md",
     "GW/引力与引力波.pdf",
     "General Relativity",
     "GW/Basic.pdf",
     "GW/GW_learn.pdf",
     "Cosmology",
-    "String Theory",
     "Untitled.canvas",
     "Untitled 1.canvas",
     "Untitled 2.canvas",
