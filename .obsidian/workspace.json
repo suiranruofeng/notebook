@@ -8,11 +8,15 @@
         "type": "tabs",
         "children": [
           {
-            "id": "30ccd73c0843e577",
+            "id": "6e8d512ca78e801c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Quantum information and cosmology.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -91,6 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Quantum information and cosmology.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,6 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Quantum information and cosmology.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +134,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Quantum information and cosmology.md"
+              }
             }
           },
           {
@@ -171,8 +179,10 @@
   },
   "active": "c8dceeda328d162e",
   "lastOpenFiles": [
+    "Massive black hole.md",
+    "Quantum information and cosmology.md",
+    "giant planet.md",
     "Cosmology/Observed Cosmology Revise.md",
-    "未命名.md",
     "Cosmology/Cosmology.md",
     "Cosmology/_attatchments/Pasted image 20240615104630.png",
     "Cosmology/_attatchments/Pasted image 20240615104604.png",
@@ -210,8 +220,6 @@
     "行列式变分.md",
     "恒星物理基础第四次作业.md",
     "恒星物理基础第六次作业.md",
-    "恒星物理基础第五次作业.md",
-    "恒星物理基础第二次作业.md",
     "GW/引力与引力波.pdf",
     "General Relativity",
     "GW/Basic.pdf",

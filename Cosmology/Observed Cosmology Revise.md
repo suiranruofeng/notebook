@@ -10,7 +10,7 @@
 - 微扰论相关Baumann lecture chapter4/lecture-ppt1（牛顿扰动/相对论扰动/规范不变性）是宇宙大尺度结构产生的来源
 - 数据处理方法/贝叶斯推断/Fisher 矩阵：ppt-2/现代宇宙学chapter11
 - 星系成团性描述（overdensity/关联函数）:ppt3/Baumann书section5.3
-- BAO的产生机制:现代宇宙学p118/ppt4
+- BAO的产生机制:现代宇宙学p188/ppt4
 - RSD的产生机制:现代宇宙学p232/ppt5
 - 各自用途：模型依赖的宇宙参数检验。BAO-宇宙标准尺，RSD-视线方向的各向异性
 - Fingers of God效应:在小尺度上,比如星系团内部,个体星系之间存在着无序的运动，在视线方向上会产生额外的速度分量,从而导致物体在红移空间中的位置发生偏离。
