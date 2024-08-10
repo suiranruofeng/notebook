@@ -8,18 +8,31 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6e8d512ca78e801c",
+            "id": "49629f9f90062123",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Quantum information and cosmology.md",
+                "file": "Cosmology/Cosmology.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7819fc982be0c127",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Horizon.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -78,8 +91,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 204.5,
-    "collapsed": true
+    "width": 204.5
   },
   "right": {
     "id": "f50c300e18cc0c97",
@@ -95,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Quantum information and cosmology.md",
+                "file": "Horizon.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Quantum information and cosmology.md",
+                "file": "Horizon.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Quantum information and cosmology.md"
+                "file": "Horizon.md"
               }
             }
           },
@@ -177,30 +189,39 @@
       "markdown-importer:打开 Markdown 格式转换器": false
     }
   },
-  "active": "c8dceeda328d162e",
+  "active": "7819fc982be0c127",
   "lastOpenFiles": [
-    "Massive black hole.md",
-    "Quantum information and cosmology.md",
-    "giant planet.md",
-    "Cosmology/Observed Cosmology Revise.md",
+    "_attatchments/Pasted image 20240810120707.png",
+    "_attatchments",
     "Cosmology/Cosmology.md",
-    "Cosmology/_attatchments/Pasted image 20240615104630.png",
-    "Cosmology/_attatchments/Pasted image 20240615104604.png",
-    "Cosmology/_attatchments",
-    "Cosmology/The history of universe.md",
-    "Cosmology/Newtonian Perturbation Theory.md",
-    "Cosmology/Gauge theory.md",
+    "Horizon.md",
     "Cosmology/Dark  Energy.md",
+    "Cosmology/Gauge theory.md",
+    "Cosmology/Newtonian Perturbation Theory.md",
+    "Cosmology/Observed Cosmology Revise.md",
+    "Cosmology/The history of universe.md",
+    "Holographic Dark energy.md",
+    "Draft.md",
+    "Quantum Field Theory/Preliminary knowledge.md",
     "General Relativity/Review GR in short time.md",
     "General Relativity/GR1-Special Relativity.md",
     "General Relativity/GR-Draft.md",
-    "Fluid Mechanics.md",
-    "S0/S0 Galaxy.md",
-    "S0/Pasted image 20240602130216.png",
+    "踩过的坑.md",
+    "高能天体物理作业 1.md",
+    "恒星物理基础第三次作业.md",
     "恒星物理基础第一次作业.md",
     "Lie Algebra.md",
-    "Draft.md",
-    "Quantum Field Theory/Preliminary knowledge.md",
+    "Latex.md",
+    "String Theory/String Stheory.md",
+    "String Theory/homework.md",
+    "S0/S0 Galaxy.md",
+    "Quantum information and cosmology.md",
+    "Massive black hole.md",
+    "giant planet.md",
+    "Cosmology/_attatchments/Pasted image 20240615104630.png",
+    "Cosmology/_attatchments/Pasted image 20240615104604.png",
+    "Cosmology/_attatchments",
+    "S0/Pasted image 20240602130216.png",
     "S0.zip",
     "S0.zip.hm3o3a.part",
     "Pasted image 20240428155409.png",
@@ -211,20 +232,11 @@
     "Pasted image 20240428152738.png",
     "Pasted image 20240428152208.png",
     "S0/Pasted image 20240602204134.png",
-    "Numerical Ways.md",
     "Quantum Field Theory",
-    "String Theory/String Stheory.md",
-    "String Theory/homework.md",
-    "高能天体物理作业.md",
-    "踩过的坑.md",
-    "行列式变分.md",
-    "恒星物理基础第四次作业.md",
-    "恒星物理基础第六次作业.md",
     "GW/引力与引力波.pdf",
     "General Relativity",
     "GW/Basic.pdf",
     "GW/GW_learn.pdf",
-    "Cosmology",
     "Untitled.canvas",
     "Untitled 1.canvas",
     "Untitled 2.canvas",
