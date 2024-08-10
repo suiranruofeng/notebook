@@ -8,31 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "49629f9f90062123",
+            "id": "7c68e65a8f17f290",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cosmology/Cosmology.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7819fc982be0c127",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Horizon.md",
+                "file": "Holographic Dark energy.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -107,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Horizon.md",
+                "file": "Holographic Dark energy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Horizon.md",
+                "file": "Holographic Dark energy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Horizon.md"
+                "file": "Holographic Dark energy.md"
               }
             }
           },
@@ -189,54 +176,54 @@
       "markdown-importer:打开 Markdown 格式转换器": false
     }
   },
-  "active": "7819fc982be0c127",
+  "active": "7c68e65a8f17f290",
   "lastOpenFiles": [
-    "_attatchments/Pasted image 20240810120707.png",
-    "_attatchments",
     "Cosmology/Cosmology.md",
-    "Horizon.md",
+    "Holographic Dark energy.md",
+    "HUGO.md",
+    "Latex.md",
+    "Lie Algebra.md",
+    "Massive black hole.md",
+    "Modern Cosmology homework.md",
+    "Numerical Ways.md",
+    "Palatini equation.md",
+    "Quantum information and cosmology.md",
+    "README.md",
+    "Unit 10 Text A - UCAS English course.md",
+    "中特大纲.md",
+    "wzy/高能天体物理作业.md",
+    "wzy/Pasted image 20240428152208.png",
+    "wzy/Pasted image 20240428153424.png",
+    "wzy/Pasted image 20240428155409.png",
+    "wzy",
+    "wzy/Pasted image 20240428152738.png",
+    "Star Physics/恒星物理基础第一次作业.md",
+    "Cosmology/_attatchments/Pasted image 20240810120707.png",
+    "2024-03-29.md",
+    "Star Physics",
+    "Cosmology/Horizon.md",
+    "_attatchments",
     "Cosmology/Dark  Energy.md",
     "Cosmology/Gauge theory.md",
     "Cosmology/Newtonian Perturbation Theory.md",
     "Cosmology/Observed Cosmology Revise.md",
     "Cosmology/The history of universe.md",
-    "Holographic Dark energy.md",
     "Draft.md",
     "Quantum Field Theory/Preliminary knowledge.md",
     "General Relativity/Review GR in short time.md",
     "General Relativity/GR1-Special Relativity.md",
-    "General Relativity/GR-Draft.md",
-    "踩过的坑.md",
-    "高能天体物理作业 1.md",
-    "恒星物理基础第三次作业.md",
-    "恒星物理基础第一次作业.md",
-    "Lie Algebra.md",
-    "Latex.md",
-    "String Theory/String Stheory.md",
-    "String Theory/homework.md",
-    "S0/S0 Galaxy.md",
-    "Quantum information and cosmology.md",
-    "Massive black hole.md",
-    "giant planet.md",
     "Cosmology/_attatchments/Pasted image 20240615104630.png",
     "Cosmology/_attatchments/Pasted image 20240615104604.png",
     "Cosmology/_attatchments",
     "S0/Pasted image 20240602130216.png",
     "S0.zip",
     "S0.zip.hm3o3a.part",
-    "Pasted image 20240428155409.png",
-    "Pasted image 20240428153424.png",
     "S0/Pasted image 20240602211414.png",
     "S0",
     "S0/Pasted image 20240602132448.png",
-    "Pasted image 20240428152738.png",
-    "Pasted image 20240428152208.png",
-    "S0/Pasted image 20240602204134.png",
     "Quantum Field Theory",
     "GW/引力与引力波.pdf",
     "General Relativity",
-    "GW/Basic.pdf",
-    "GW/GW_learn.pdf",
     "Untitled.canvas",
     "Untitled 1.canvas",
     "Untitled 2.canvas",

@@ -5,3 +5,11 @@ $$
 M \sim L^3T^4, S \sim L^3T^3
 $$
 L是系统的长度尺度，紫外截断
+
+
+基本的动机
+- Casimir energy in de Sitter space
+- Quantum uncertainty of transverse position
+- Entanglement entropy from quantum information theory
+- Dark energy from entropic force
+
