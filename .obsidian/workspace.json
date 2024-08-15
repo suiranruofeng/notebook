@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cosmology/Cosmology.md",
+                "file": "Holographic Dark energy.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cosmology/Cosmology.md",
+                "file": "Holographic Dark energy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cosmology/Cosmology.md",
+                "file": "Holographic Dark energy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cosmology/Cosmology.md"
+                "file": "Holographic Dark energy.md"
               }
             }
           },
@@ -178,11 +178,23 @@
   },
   "active": "7c68e65a8f17f290",
   "lastOpenFiles": [
-    "General Relativity/GR-Draft.md",
-    "Cosmology/Horizon.md",
+    "Cosmology/Cosmology.md",
+    "Parameter Constraint.md",
+    "Numerical Ways.md",
     "Cosmology/Gauge theory.md",
     "Cosmology/Dark  Energy.md",
-    "Cosmology/Cosmology.md",
+    "Lie Algebra.md",
+    "HUGO.md",
+    "Holographic Dark energy.md",
+    "Group theory.md",
+    "giant planet.md",
+    "Fluid Mechanics.md",
+    "Palatini equation.md",
+    "Cosmology/Observed Cosmology Revise.md",
+    "Quantum information and cosmology.md",
+    "Modern Cosmology homework.md",
+    "General Relativity/GR-Draft.md",
+    "Cosmology/Horizon.md",
     "Latex.md",
     "Star Physics/恒星物理基础第三次作业.md",
     "GW/引力与引力波.pdf",
@@ -191,28 +203,16 @@
     "General Relativity/Review GR in short time.md",
     "General Relativity/GR1-Special Relativity.md",
     "Cosmology/The history of universe.md",
-    "Cosmology/Observed Cosmology Revise.md",
     "Cosmology/Newtonian Perturbation Theory.md",
     "Cosmology/_attatchments/Pasted image 20240813221527.png",
-    "Holographic Dark energy.md",
-    "Parameter Constraint.md",
-    "Numerical Ways.md",
-    "HUGO.md",
-    "Lie Algebra.md",
     "Massive black hole.md",
-    "Modern Cosmology homework.md",
-    "Palatini equation.md",
-    "Quantum information and cosmology.md",
     "README.md",
     "Unit 10 Text A - UCAS English course.md",
-    "中特大纲.md",
-    "wzy/高能天体物理作业.md",
     "wzy/Pasted image 20240428152208.png",
     "wzy/Pasted image 20240428153424.png",
     "wzy/Pasted image 20240428155409.png",
     "wzy",
     "wzy/Pasted image 20240428152738.png",
-    "Star Physics/恒星物理基础第一次作业.md",
     "Cosmology/_attatchments/Pasted image 20240810120707.png",
     "Star Physics",
     "_attatchments",
