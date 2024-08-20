@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cosmology/Kolb K-matter.md",
+                "file": "Cosmology/Dirac medal.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cosmology/Kolb K-matter.md",
+                "file": "Cosmology/Dirac medal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cosmology/Kolb K-matter.md",
+                "file": "Cosmology/Dirac medal.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cosmology/Kolb K-matter.md"
+                "file": "Cosmology/Dirac medal.md"
               }
             }
           },
@@ -178,16 +178,17 @@
   },
   "active": "7c68e65a8f17f290",
   "lastOpenFiles": [
+    "Cosmology/Friedmann equation.md",
     "Cosmology/Newtonian Perturbation Theory.md",
+    "Cosmology/Holographic Dark energy.md",
+    "Cosmology/Horizon.md",
+    "Cosmology/Cosmology.md",
+    "Cosmology/Dirac medal.md",
+    "Cosmology/The history of universe.md",
+    "Cosmology/Observed Cosmology Revise.md",
+    "Cosmology/Lectures on Quantum Gravity and Black Holes.md",
     "Cosmology/Kolb K-matter.md",
     "Cosmology/Gauge theory.md",
-    "Cosmology/Holographic Dark energy.md",
-    "Cosmology/Dirac medal.md",
-    "Cosmology/Cosmology.md",
-    "Cosmology/Friedmann equation.md",
-    "Cosmology/Horizon.md",
-    "Cosmology/Observed Cosmology Revise.md",
-    "Cosmology/The history of universe.md",
     "General Relativity/GR-Draft.md",
     "General Relativity/Review GR in short time.md",
     "Parameter Constraint.md",
@@ -207,7 +208,6 @@
     "GW/Basic.pdf",
     "General Relativity/GR1-Special Relativity.md",
     "Cosmology/_attatchments/Pasted image 20240813221527.png",
-    "Massive black hole.md",
     "wzy/Pasted image 20240428152208.png",
     "wzy/Pasted image 20240428153424.png",
     "wzy/Pasted image 20240428155409.png",
