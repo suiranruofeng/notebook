@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cosmology/Dirac medal.md",
+                "file": "Cosmology/Constraint dark energy.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cosmology/Dirac medal.md",
+                "file": "Cosmology/Constraint dark energy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cosmology/Dirac medal.md",
+                "file": "Cosmology/Constraint dark energy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cosmology/Dirac medal.md"
+                "file": "Cosmology/Constraint dark energy.md"
               }
             }
           },
@@ -178,35 +178,38 @@
   },
   "active": "7c68e65a8f17f290",
   "lastOpenFiles": [
-    "Cosmology/Friedmann equation.md",
+    "Cosmology/Parameter Constraint.md",
     "Cosmology/Newtonian Perturbation Theory.md",
-    "Cosmology/Holographic Dark energy.md",
-    "Cosmology/Horizon.md",
-    "Cosmology/Cosmology.md",
-    "Cosmology/Dirac medal.md",
-    "Cosmology/The history of universe.md",
-    "Cosmology/Observed Cosmology Revise.md",
     "Cosmology/Lectures on Quantum Gravity and Black Holes.md",
     "Cosmology/Kolb K-matter.md",
+    "Cosmology/Observed Cosmology Revise.md",
+    "Cosmology/Constraint dark energy.md",
+    "Cosmology/Holographic Dark energy.md",
+    "Cosmology/Horizon.md",
     "Cosmology/Gauge theory.md",
-    "General Relativity/GR-Draft.md",
-    "General Relativity/Review GR in short time.md",
-    "Parameter Constraint.md",
-    "Numerical Ways.md",
+    "踩过的坑.md",
+    "Cosmology/Dirac medal- Entanglement Entropy.md",
+    "Cosmology/Friedmann equation.md",
+    "Cosmology/Cosmology.md",
+    "Cosmology/The history of universe.md",
+    "Quantum information and cosmology.md",
+    "Meditations/Tsallis entropy.md",
+    "Massive black hole.md",
     "Lie Algebra.md",
-    "HUGO.md",
+    "Latex.md",
     "Group theory.md",
     "giant planet.md",
     "Fluid Mechanics.md",
-    "Palatini equation.md",
-    "Quantum information and cosmology.md",
-    "Modern Cosmology homework.md",
-    "Latex.md",
-    "Star Physics/恒星物理基础第三次作业.md",
+    "Draft.md",
+    "Meditations",
+    "Cosmology/_attatchments/Pasted image 20240821123524.png",
+    "Cosmology/_attatchments/Pasted image 20240821123410.png",
+    "General Relativity/GR-Draft.md",
+    "General Relativity/Review GR in short time.md",
+    "Numerical Ways.md",
     "GW/引力与引力波.pdf",
     "GW/GW_learn.pdf",
     "GW/Basic.pdf",
-    "General Relativity/GR1-Special Relativity.md",
     "Cosmology/_attatchments/Pasted image 20240813221527.png",
     "wzy/Pasted image 20240428152208.png",
     "wzy/Pasted image 20240428153424.png",
@@ -219,11 +222,8 @@
     "Cosmology/_attatchments/Pasted image 20240615104630.png",
     "Cosmology/_attatchments/Pasted image 20240615104604.png",
     "Cosmology/_attatchments",
-    "S0/Pasted image 20240602130216.png",
     "S0.zip",
     "S0.zip.hm3o3a.part",
-    "S0/Pasted image 20240602211414.png",
-    "S0",
     "Untitled.canvas",
     "Untitled 1.canvas",
     "Untitled 2.canvas",
