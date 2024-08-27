@@ -4,6 +4,8 @@
 $$
 \boldsymbol{r}=a(t)\boldsymbol{x}
 $$
+早期宇宙$a(t)$接近0，规定现在的标度因子$a_0(t_0)=1$
+
 物理速度
 $$
 \boldsymbol{v}=\frac{d\boldsymbol{r}}{dt}=\frac{da\cdot \boldsymbol{x}}{dt}=\frac{\dot{a}}{a}\cdot a\boldsymbol{x} \equiv H(t)\boldsymbol{r}
@@ -28,24 +30,66 @@ $$\frac{1}{a(t_e)}=1+z$$
 ![[Pasted image 20240813221527.png]]
 
 
-哈勃时间（宇宙的年龄）
-
 - 共动坐标系
+- 物理坐标系
+- 宇宙时
+- 共形时间$d\eta=dt/a(t)$
 
 
 ![[Pasted image 20240615104630.png]]
 
-#### 宇宙中的距离
+
 
 细调(Fine Tuning)问题是指物理理论中出现一些极度精细的参数或者量,这些参数必须被非常精确地调整到特定的狭窄范围内,才能使理论的预言与观测数据相符。这种精细的调节通常被认为是"不自然"的,可能暗示着我们所知的理论是不完整的。
 宇宙学常数(cosmological constant)的细调问题 - 理论预言的值比观测值大约小10^120倍。
 
 
+
+宇宙年龄（哈勃时间）
+由$$
+\dot{a}^2=H^2a^2=H_0^2 a^2(\Omega_m a^{-3}+\Omega_r^{-4}+\Omega_\Lambda+\Omega_k a^{-2})
+$$
+其中
+$$
+\Omega_{crit}=\frac{\rho_{i,0}}{\rho_{crit,0}},\ \rho_{crit}=\frac{3H_0^2}{8\pi G}
+$$
+于是可以从0积分到$t_0$求得宇宙的年龄
+$$
+t_0=\int_0^{t_0}dt=\int_0^1 \frac{da}{Ha}=\int_0^1 \frac{da}{H_0 a \sqrt{\Omega_m a^{-3}+\Omega_r^{-4}+\Omega_\Lambda+\Omega_k a^{-2}}}\approx138 \times 10^8 \mathrm{year}
+$$
+另外的写法
+$$
+t_0=\int_0^{t_0}dt=\int_0^1 \frac{da}{Ha}=\int \frac{1+z}{H}d \left(\frac{1}{1+z}\right)=\int_0^\infty H^{-1}\frac{1}{1+z}dz
+$$
+不考虑辐射、暗能量、曲率，只考虑物质时$\Omega_m=1$
+$$
+t_0=\frac{1}{H_0}\int_0^\infty \frac{1}{1+z}\frac{1}{\sqrt{(1+z)^3}}dz=\frac{2}{3H_0}
+$$
+运用上述的不考虑暗能量的宇宙年龄计算可观测宇宙半径的当今值，取了$a_0=1$，共形传播时间积分求得光的共形传播距离，再乘上现在的尺度因子得到
+$$
+d_0=a_0\int \frac{dt}{a}=\int \frac{da}{Ha^2}=\int \frac{(1+z)^2}{H}d\left(\frac{1}{1+z}\right)=\int_0^\infty H^{-1} dz=\frac{1}{H_0}\int_0^\infty \frac{1}{\sqrt{(1+z)^3}}dz=\frac{2}{H_0}
+$$
+因此有关系
+$$
+d_0=3t_0 \approx 42\mathrm{Gyr}
+$$
+哈勃视界
+$$
+d_H=\frac{1}{H_0}\approx 14 \mathrm{Gyr}
+$$
+
 可观测宇宙半径
 $$
-x=\int_0^{t_0}\frac{dt}{a(t)}
+d=a(t)\int_{rec}^{t_0}\frac{dt}{a(t)}
 $$
-宇宙年龄
+现在的可观测宇宙
 $$
-x=\int_0^{t_0}dt
+d_0=a_0 \int^{a_0}_{a_{rec}} \frac{da}{H_0a^2 \sqrt{\Omega_m a^{-3}+\Omega_r^{-4}+\Omega_\Lambda+\Omega_k a^{-2}}} \approx 46 \mathrm{Gyr}
 $$
+可以参考
+[当今可观测宇宙半径怎么计算得到的? - 寻风的回答 - 知乎](https://www.zhihu.com/question/435774852/answer/1637909825)
+
+
+
+
+宇宙学中的距离 待续

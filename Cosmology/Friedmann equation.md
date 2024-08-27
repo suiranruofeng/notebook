@@ -30,3 +30,24 @@ $$
 $$
 \dot{\rho}+3\frac{\dot{a}}{a}\left( \rho+\frac{p}{c^2}\right)=0
 $$
+Friedmann第一方程可以写成哈勃参数的形式$H$
+$$
+H^2=\frac{8\pi G}{3}\rho-\frac{kc^2}{a^2 R_0^2}
+$$
+定义临界能量密度，指现在时刻的能量密度$t_0$
+$$\rho_{crit}=\frac{3H_0}{8\pi G}$$
+各个物质组分的能量密度
+$$\Omega_m=\frac{\rho_m}{\rho_{crit}},\Omega_r=\frac{\rho_r}{\rho_{crit}},\Omega_{de}=\frac{\rho_{de}}{\rho_{crit}},\Omega_k=\frac{k}{H_0^2}$$
+宇宙的膨胀历史由哈勃参量$H(a)=\dot{a}(t)/a(t)$描述$$\frac{H^2}{H_0^2}=\frac{\Omega_m}{a^3}+\frac{\Omega_k}{a^2}+\frac{\Omega_r}{a^4}+\Omega_{de}$$
+用状态参数参数化上面的式子
+$$
+\frac{d \ln a}{dt}\approx H_0 \sqrt{\Omega_i}a^{-\frac{2}{3}(1+w_i)}
+$$
+将$t$改成共形时间$\eta$
+$$
+\frac{d \ln a}{d \eta}\approx H_0 \sqrt{\Omega_i}a^{-\frac{1}{2}(1+3w_i)}
+$$
+积分可以得到
+$$
+a(\eta) \propto \eta^{2/(1+3w_i)}
+$$

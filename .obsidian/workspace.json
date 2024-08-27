@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cosmology/Constraint dark energy.md",
+                "file": "Cosmology/Cosmology.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cosmology/Constraint dark energy.md",
+                "file": "Cosmology/Cosmology.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cosmology/Constraint dark energy.md",
+                "file": "Cosmology/Cosmology.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cosmology/Constraint dark energy.md"
+                "file": "Cosmology/Cosmology.md"
               }
             }
           },
@@ -178,25 +178,26 @@
   },
   "active": "7c68e65a8f17f290",
   "lastOpenFiles": [
-    "Cosmology/Parameter Constraint.md",
+    "Cosmology/Constraint dark energy.md",
+    "Meditations/Tsallis entropy.md",
+    "Meditations/Code relative.md",
     "Cosmology/Newtonian Perturbation Theory.md",
     "Cosmology/Lectures on Quantum Gravity and Black Holes.md",
     "Cosmology/Kolb K-matter.md",
-    "Cosmology/Observed Cosmology Revise.md",
-    "Cosmology/Constraint dark energy.md",
-    "Cosmology/Holographic Dark energy.md",
     "Cosmology/Horizon.md",
+    "Cosmology/Holographic Dark energy.md",
     "Cosmology/Gauge theory.md",
-    "踩过的坑.md",
-    "Cosmology/Dirac medal- Entanglement Entropy.md",
     "Cosmology/Friedmann equation.md",
+    "Cosmology/Dirac medal- Entanglement Entropy.md",
     "Cosmology/Cosmology.md",
+    "Cosmology/Observed Cosmology Revise.md",
+    "Cosmology/Parameter Constraint.md",
     "Cosmology/The history of universe.md",
+    "Latex.md",
+    "踩过的坑.md",
     "Quantum information and cosmology.md",
-    "Meditations/Tsallis entropy.md",
     "Massive black hole.md",
     "Lie Algebra.md",
-    "Latex.md",
     "Group theory.md",
     "giant planet.md",
     "Fluid Mechanics.md",
@@ -206,7 +207,6 @@
     "Cosmology/_attatchments/Pasted image 20240821123410.png",
     "General Relativity/GR-Draft.md",
     "General Relativity/Review GR in short time.md",
-    "Numerical Ways.md",
     "GW/引力与引力波.pdf",
     "GW/GW_learn.pdf",
     "GW/Basic.pdf",

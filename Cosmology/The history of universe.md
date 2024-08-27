@@ -3,8 +3,10 @@
 BAO的产生：在光子退耦之前，宇宙中只有很小的密度扰动，光子压强推着这种小的扰动走速度为$c/\sqrt{3}$，光子退耦之后，不再受压强，这种被推出去的扰动就保留了下来，形成重子声波震荡。由于光子和重子的耦合，CMB中也包含BAO的信息
 冷暗物质由于不受光子影响，密度扰动直接增长，并形成引力势。在脱耦后重子物质逐渐落入暗物质势阱中，密度扰动也增长直到$\delta \rho/\rho\sim1$ 从此进入非线性演化阶段，然后发生塌缩形成第一代天体，最终形成宇宙大尺度结构。
 宇宙演化到低红移时期，暗能量开始主导宇宙，由于其压强小于0，其斥力使宇宙开始加速膨胀
-临界能量密度$$\rho_{crit}=\frac{3H_0}{8\pi G}$$
-各个物质组分的能量密度$$\Omega_m=\frac{\rho_m}{\rho_{crit}},\Omega_r=\frac{\rho_r}{\rho_{crit}},\Omega_{de}=\frac{\rho_{de}}{\rho_{crit}},\Omega_k=\frac{k}{H_0^2}$$
+临界能量密度，指现在时刻的能量密度$t_0$
+$$\rho_{crit}=\frac{3H_0}{8\pi G}$$
+各个物质组分的能量密度
+$$\Omega_m=\frac{\rho_m}{\rho_{crit}},\Omega_r=\frac{\rho_r}{\rho_{crit}},\Omega_{de}=\frac{\rho_{de}}{\rho_{crit}},\Omega_k=\frac{k}{H_0^2}$$
 宇宙的膨胀历史由哈勃参量$H(a)=\dot{a}(t)/a(t)$描述$$H^2(a)=\frac{\Omega_m}{a^3}+\frac{\Omega_k}{a^2}+\frac{\Omega_r}{a^4}+\Omega_{de}$$
 宇宙学中的时间
 - 宇宙时$t$
