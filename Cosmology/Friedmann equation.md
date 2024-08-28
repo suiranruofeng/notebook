@@ -22,13 +22,25 @@ $$
 $$
 其实也可以通过牛顿的方法求得，见Baumann书p47-48
 
-协变守恒方程
+由协变守恒方程
 $$
 \nabla_\mu T^\mu_{\ \ \nu}=0
 $$
 可以推导(Baumann p38-39)出
 $$
 \dot{\rho}+3\frac{\dot{a}}{a}\left( \rho+\frac{p}{c^2}\right)=0
+$$
+由此可以得到
+$$
+\frac{\dot{\rho}}{p}=-3 \frac{\dot{a}}{a}\left(\frac{\rho}{p}+1\right)
+$$
+定义状态参数$w=\rho/p$，可以得到
+$$
+\frac{\dot{\rho}}{p}=-3 \frac{\dot{a}}{a}\left(w+1\right)
+$$
+从而可以验证
+$$
+\rho \propto a^{-3(1+w)}
 $$
 Friedmann第一方程可以写成哈勃参数的形式$H$
 $$

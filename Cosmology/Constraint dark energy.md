@@ -39,4 +39,18 @@ $$
 CMB
 
 BAO
+$z_d$这是重子（普通物质）在宇宙历史上与光子的相互作用基本结束的时期
+$$
+r_d=\int_{z_d}^\infty \frac{c_s(z)}{H(z)}dz
+$$
+$$
+D_M(z)=c \int_0^z \frac{dz'}{H(z')}
+$$
+$$
+D_H(z)=\frac{c}{H(z)}
+$$
+通过限制$$
+\frac{D_M(z)}{r_d},\ \frac{D_H(z)}{r_d}
+$$
+![[Pasted image 20240828184414.png]]
 
