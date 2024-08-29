@@ -70,6 +70,11 @@ Cohen等根据全息原理论证：
 红外截断
 考虑有效量子场论的能量不超过同样长度的黑洞的质量，极大能量密度由紫外截断除以相应的体积给出$\sim \Lambda^4$，那么总能量为$\sim L^3 \Lambda^4$。黑洞的质量为$M \sim LG^{-1} \sim L M_p^2$，所以要求$L^3 \Lambda^4 \lesssim LM_p^2$，取等号时有$L \sim \Lambda^{-2}$也有$\Lambda \sim M_p^{\frac{1}{2}}L^{-\frac{1}{2}}$，可以求得此时的最大熵为$S \sim L^3 \Lambda^3 \sim L^{\frac{2}{3}}M_p^{\frac{2}{3}} \sim S_{BH}^{\frac{3}{4}}$说明有效量子场论取不到极大熵，即量子场论只能描述黑洞的低能物理。
 
+其核心为
+$$
+L^3 \Lambda^3 \leq (S_\text{BH})^\frac{3}{4}
+$$
+
 所以Li等人认为，宇宙中尺度为R的体积内的真空能不能超过同体积的黑洞质量
 $$R^3 \rho_\Lambda\mathop{ \leqslant M_\rm{BH}}$$
 其中$M_\rm{BH}=\frac{Rc^2}{G}$，取自然单位制$\hbar=c=1$，以及$M_p^2=1/ G$普朗克质量

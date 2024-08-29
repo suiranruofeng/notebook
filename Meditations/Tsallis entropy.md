@@ -42,3 +42,42 @@ $$
 - 但文中指出，这种观点是“有点奇怪的”（“kind of bizarre”），因为存在许多物理和数学事实表明，熵应具有广延性，尽管在某些复杂系统中，这种广延性可能以不同的形式表现出来。
 
 强关联系统中的状态数大大减少，因此这些系统的热力学熵无法用通常的熵定义，而需要通过一种非可加性的熵来描述。这种熵不同于传统的熵概念，更适合描述具有强关联或强纠缠特性的复杂系统。
+
+Tsallis entropy Dark energy
+由
+$$
+L^3 \Lambda^3 \leq (S_\text{BH})^\frac{3}{4}
+$$
+Tsallis熵形式为
+$$
+S_\text{s}=\gamma A^\delta
+$$
+考虑让$S_\text{BH}=\gamma A^\delta$，红外截断为Hubble视界$L=H^{-1}$
+$$
+\Lambda^4 \leqslant \gamma(4\pi)^\delta L^{2\delta-4}
+$$
+有Friedmann方程和转移方程
+$$
+\begin{align*}
+\begin{cases}
+\rho_\text{D}=BH^{-2\delta+4} \\
+\dot{\rho_\text{D}}+3H \rho_\text{D}(1+w_\text{D})=0
+\end{cases}
+\end{align*}
+$$
+暗能量组分及其导数
+$$
+\Omega_\text{D}=\frac{BH^{-2\delta+2}}{3m_p^2}
+$$
+$$
+\Omega_\text{D}'=\frac{d \Omega_\text{D}}{d (\ln a)}=(-2\delta+2)\Omega_D\frac{\dot{H}}{H^2}
+$$
+声速
+$$
+v_s^2=\frac{(\delta-1)(\Omega_\text{D}-1)}{[1-(2-\delta)\Omega_\text{D}]^2}
+$$
+宇宙年龄略
+结论：
+$\delta=1$，回到Li讨论$w=0$Hubble视界情形
+$\delta=2$，$\Lambda$情形
+$\delta>1$不稳定$v_s^2<0$
