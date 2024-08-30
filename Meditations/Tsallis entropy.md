@@ -65,6 +65,14 @@ $$
 \end{cases}
 \end{align*}
 $$
+Eos
+$$
+w_\text{D}=\frac{\delta-1}{(2-\delta)\Omega_\text{D}-1}
+$$
+减速因子
+$$
+q=-1-\frac{\dot{H}}{H^2}=\frac{1}{2}\left[\frac{(1-2\delta)\Omega_\text{D}+1}{1-(2-\delta)\Omega_\text{D}}\right]
+$$
 暗能量组分及其导数
 $$
 \Omega_\text{D}=\frac{BH^{-2\delta+2}}{3m_p^2}
