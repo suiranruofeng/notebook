@@ -58,16 +58,15 @@ $$
 
 Hawking提出黑洞的熵和其表面积成正比
 $$S_{BH}=\frac{A}{4G} \sim L^2 M_p^2$$
-系统的热能E和熵S和温度与尺度成正比
+一个定性的证明
 $$
-M \sim L^3T^4, S \sim L^3T^3
+\lambda<r_s \Rightarrow E \geqslant \frac{1}{r_s} \Rightarrow dN=\frac{dM}{E}\sim r_s dM \sim \frac{r_s dr_s}{G} \sim \frac{dA}{G}
 $$
-L是系统的长度尺度，紫外截断$\Lambda$
 
 Cohen等根据全息原理论证：
-紫外截断
+
 考虑最大的熵不超过同尺寸霍金熵，一个尺度为$L$的盒子，其紫外截断为$\Lambda$那么其格点的尺度为$\Lambda^{-1}$，其根据有效量子场论，熵为$S \sim L^3 \Lambda^3$。考虑最大的熵为黑洞的熵$S_{BH} \sim L^2 M_p^2$（这就是上面的贝肯斯坦霍金熵）那么有$L^3 \Lambda^3 \lesssim L^2M_p^2$，取等号时有$L \sim \Lambda^{-3}$。
-红外截断
+
 考虑有效量子场论的能量不超过同样长度的黑洞的质量，极大能量密度由紫外截断除以相应的体积给出$\sim \Lambda^4$，那么总能量为$\sim L^3 \Lambda^4$。黑洞的质量为$M \sim LG^{-1} \sim L M_p^2$，所以要求$L^3 \Lambda^4 \lesssim LM_p^2$，取等号时有$L \sim \Lambda^{-2}$也有$\Lambda \sim M_p^{\frac{1}{2}}L^{-\frac{1}{2}}$，可以求得此时的最大熵为$S \sim L^3 \Lambda^3 \sim L^{\frac{2}{3}}M_p^{\frac{2}{3}} \sim S_{BH}^{\frac{3}{4}}$说明有效量子场论取不到极大熵，即量子场论只能描述黑洞的低能物理。
 
 其核心为
@@ -129,7 +128,7 @@ $$
 \rho_\Lambda \sim a^{-3}
 \end{align*}
 $$
-也是一致的，因此得到$p_m=p_{\Lambda}=0$，和观测事实$p_\Lambda<-1/3$不符。鉴定为哈勃尺度不行，于是转而使用粒子视界
+也是一致的，因此得到$p_m=p_{\Lambda}=0$，和观测事实$w_\Lambda<-1/3$不符。鉴定为哈勃尺度不行，于是转而使用粒子视界
 $$
 R_H=a \int_0^t \frac{dt}{a}=a \int_0^a \frac{da}{Ha^2}
 $$
@@ -153,7 +152,7 @@ $$
 \rho_\Lambda=3 \alpha^2 M_p^2 a^{-2(1-\frac{1}{c})}
 $$
 $$
-w=-\frac{1}{3}-\frac{2}{3c}>-\frac{1}{3}
+w=-\frac{1}{3}-\frac{2}{3c}<-\frac{1}{3}
 $$
 符合观测，但不合逻辑：为什么未来的因会导致今天的果
 

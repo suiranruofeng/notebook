@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cosmology/Lectures on Quantum Gravity and Black Holes.md",
+                "file": "Cosmology/Entangle entropy.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cosmology/Lectures on Quantum Gravity and Black Holes.md",
+                "file": "Cosmology/Entangle entropy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cosmology/Lectures on Quantum Gravity and Black Holes.md",
+                "file": "Cosmology/Entangle entropy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cosmology/Lectures on Quantum Gravity and Black Holes.md"
+                "file": "Cosmology/Entangle entropy.md"
               }
             }
           },
@@ -178,25 +178,28 @@
   },
   "active": "951432a88ac571d1",
   "lastOpenFiles": [
-    "Cosmology/Newtonian Perturbation Theory.md",
-    "Cosmology/Summary of month 8, 2024.md",
-    "Cosmology/_attatchments/Pasted image 20240828184414.png",
-    "Cosmology/Parameter Constraint.md",
+    "Cosmology/_attatchments/Pasted image 20240903134202.png",
+    "Cosmology/Dirac medal- Entanglement Entropy.md",
+    "Cosmology/Cosmology.md",
     "Cosmology/Constraint dark energy.md",
-    "Cosmology/The history of universe.md",
-    "Cosmology/Some models.md",
+    "Cosmology/Entangle entropy.md",
+    "Cosmology/Friedmann equation.md",
+    "Cosmology/Gauge theory.md",
+    "Cosmology/Holographic Dark energy.md",
+    "Cosmology/Horizon.md",
+    "Cosmology/Kolb K-matter.md",
+    "Cosmology/Lectures on Quantum Gravity and Black Holes.md",
+    "Cosmology/Newtonian Perturbation Theory.md",
+    "Cosmology/Parameter Constraint.md",
     "Meditations/Tsallis entropy.md",
     "Meditations/Fractional holographic dark energy.md",
     "Meditations/Code relative.md",
-    "Cosmology/Holographic Dark energy.md",
-    "Cosmology/Dirac medal- Entanglement Entropy.md",
-    "Cosmology/Friedmann equation.md",
-    "Cosmology/Gauge theory.md",
-    "Cosmology/Horizon.md",
-    "Cosmology/Lectures on Quantum Gravity and Black Holes.md",
+    "Cosmology/_attatchments/Pasted image 20240901162428.png",
+    "Cosmology/Summary of month 8, 2024.md",
+    "Cosmology/_attatchments/Pasted image 20240828184414.png",
+    "Cosmology/The history of universe.md",
+    "Cosmology/Some models.md",
     "Cosmology/Observed Cosmology Revise.md",
-    "Cosmology/Kolb K-matter.md",
-    "Cosmology/Cosmology.md",
     "Cosmology/_attatchments/image.png",
     "踩过的坑.md",
     "Latex.md",
@@ -204,7 +207,6 @@
     "Massive black hole.md",
     "Lie Algebra.md",
     "Group theory.md",
-    "giant planet.md",
     "Meditations",
     "Cosmology/_attatchments/Pasted image 20240821123524.png",
     "Cosmology/_attatchments/Pasted image 20240821123410.png",
@@ -217,7 +219,6 @@
     "wzy/Pasted image 20240428155409.png",
     "wzy",
     "wzy/Pasted image 20240428152738.png",
-    "Cosmology/_attatchments/Pasted image 20240810120707.png",
     "Star Physics",
     "_attatchments",
     "Cosmology/_attatchments",

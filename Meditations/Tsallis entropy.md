@@ -89,3 +89,26 @@ $$
 $\delta=1$，回到Li讨论$w=0$Hubble视界情形
 $\delta=2$，$\Lambda$情形
 $\delta>1$不稳定$v_s^2<0$
+
+q代数
+微分方程
+$$
+\frac{dy}{dx}=y
+$$
+其解为$y=e^x$
+推广的微分方程
+$$
+\frac{dy}{dx}=y^q
+$$
+其解为
+$$
+y=[1+(1-q)x]^{\frac{1}{1-q}}\equiv \exp_q(x)
+$$
+$$
+\braket{O_aO_b'}\left(\frac{1}{1+x}\right)
+$$
+$$
+\begin{align*}
+
+\end{align*}
+$$
