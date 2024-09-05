@@ -2,5 +2,6 @@
 正体$\rm{R}$
 花体$\mathbb{R}$$\mathcal{R}$$\mathscr{R}$
 正比于$\propto$
-
+$\simeq$
+$\cong$
 

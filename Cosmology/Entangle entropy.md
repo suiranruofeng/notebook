@@ -43,6 +43,47 @@ S(AB)\leqslant S(A)+S(B)
 $$
 是谓shannon的次可加性\
 
+考虑一个晶格模型，纯态系统
+$$
+\ket{\Psi}\in \otimes_\alpha \mathcal{H}_\alpha
+$$
+对纯态体系，体系内所有粒子均遵循一套波函数。而对于混合态，体系中存在多种波函数
+![[Pasted image 20240905132139.png]]
+对于上图的系统有
+$$
+\otimes_\alpha \mathcal{H}_\alpha \cong \mathcal{H}_\mathcal{A} \otimes \mathcal{H}_\mathcal{A^c}
+$$
+约化密度矩阵
+$$
+\rho_\mathcal{A}=Tr_{\mathcal{A}^c}(\ket{\Psi}\bra{\Psi})
+$$
+定义纠缠熵(冯诺依曼熵)只对于子系统$\mathcal{A}$
+$$
+S_{\mathcal{A}}=-Tr_\mathcal{A}(\rho_\mathcal{A}\log \rho_\mathcal{A})
+$$
+纠缠熵是量子信息论中的一个概念，衡量了一个系统的两个子系统之间的量子纠缠程度。
+其本征值构成纠缠谱
+$$
+S_\mathcal{A}=-\sum_i \lambda_i \log \lambda_i
+$$
+$$
+S_A=S_B
+$$
+说明纠缠熵不是广延量，不取决于每个区域的大小
+更general的，纠缠熵由函数
+$$
+S=(T,L,l,\epsilon)
+$$
+Replica Trick
+Euclidean approach，其基本思路是使用replica trick，把von Neumann熵的计算转变为n阶Renyi熵的计算，后者就相当于计算约化密度矩阵的n次方的trace。这个计算可以用虚时路径积分来处理，图像上看相当于是把n个时空的replica粘起来
+$$
+\Psi(\phi_0(x))=\int_{t_E=-\infty}^{\phi(t_E=0,x)=\phi_0(x)}D \phi e^{-S(\phi)}
+$$
+![[Pasted image 20240906001710.png]]
+配分函数的等价性
+$$
+Z_{CFT}=Z_{AdS}
+$$
 
 
 ![[Pasted image 20240903134202.png]]
