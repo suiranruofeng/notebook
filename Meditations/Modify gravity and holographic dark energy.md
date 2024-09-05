@@ -114,6 +114,9 @@ $f(\mathcal{Q})$
 The Levi-Civita connection
 The Weitzenböck connection
 引力不通过曲率而是通过仿射连接
+$$
+	S=\int \sqrt{-g}d^4x\left[\frac{f(\mathcal{Q})}{2k}+\mathcal{L}_m\right]
+$$
 
 
 ![[Pasted image 20240906022205.png]]
