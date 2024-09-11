@@ -12,3 +12,11 @@ $$\Omega_m=\frac{\rho_m}{\rho_{crit}},\Omega_r=\frac{\rho_r}{\rho_{crit}},\Omega
 - 宇宙时$t$
 - 宇宙尺度因子$a$或红移$z=1/a-1$
 - 共形时间$\eta=\sum a^{-1}dt$
+
+
+$$
+S= \frac{1}{2k}\int R \sqrt{-g}\ d^4x
+$$
+$$
+(iγ^\mu \partial_\mu​−m)ψ=0
+$$

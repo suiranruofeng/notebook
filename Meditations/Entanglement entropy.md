@@ -20,3 +20,10 @@ $$
 $$
 S_\mathcal{A}=-\sum_i \lambda_i \log \lambda_i
 $$
+
+在d维时空中,自由无质量标量场的两点关联函数为$$$\langle\phi(x)\phi(y)\rangle = \frac{\Omega_d}{|x-y|^{d-2}}$$
+其中
+$$\Omega_d = \Gamma((d-2)/2)/(4\pi^{d/2})$$是d维时空的几何因子
+在d维时空中,纠缠熵的典型行为为
+$$S \sim A(\Sigma)\epsilon^{d-2}$$
+这里$A(\Sigma)$是分割面$\Sigma$的面积,$\epsilon$是紫外截断

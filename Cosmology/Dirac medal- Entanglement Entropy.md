@@ -26,9 +26,9 @@ $$
 其中$l$和$L$分别是$A$子系统和$A \cup B$的长度，$a$-中心荷，$\mathcal{A}$-边界点的数量，$\xi$-相关长度
 对于有任意$d-1$维边界($\partial A \in \mathbb{R}^d$)的子系统$A$，在$\mathbb{R}\times S^d$上定义CFT中的纠缠熵$S_A$  (R-T公式)
 $$
-S_A=\frac{\rm{area\ of\ }\gamma_A}{4 G_N^{d+2}}
+S_A=\frac{\rm{Area\ of\ }\gamma_A}{4 G_N^{d+2}}
 $$
-其中$\gamma_A$是$\rm{AdS}_{d+2}$空间中的静态最小面，$4 G_N^{d+2}$是$d+2$维的牛顿常数。也就是说，对于只能看到子系统A的观者来说，$\gamma_A$是全息面。
+其中$\gamma_A$是$\rm{AdS}_{d+2}$空间中的静态最小面，$4 G_N^{d+2}$是$d+2$维的引力常数。也就是说，对于只能看到子系统A的观者来说，$\gamma_A$是全息面。
 
 AdS时空常用的坐标系有两种，分别为Global坐标和Poincare坐标，一下以d=1即3D AdS时空为例，在Global坐标中这样的时空坐标为$(t,\ \rho,\ \theta)$一个时间坐标一个径向坐标和一个角度旋转坐标
 
@@ -76,7 +76,13 @@ $\chi_R$是量子极端曲面，不同于$X_R$经典极端曲面（RT面）
 
 黑洞精细熵
 2019年，Penington，Almheiri-Engelhardt-Marolf和Maxfield等人将EW公式运用到时空中计算蒸发黑洞的精细熵，提出计算黑洞精细熵的半经典QES公式
-
+$$
+S_{gen}(X)=\frac{Area(X)}{4 G_N}+S_{semi}(\Sigma_X)
+$$
+满足page curve。违反了一般的黑洞热力学第二定律，但提出仍然满足广义的第二定律
 
 Hawking辐射的精细熵island rule
+$$
+S_\text{Rad}=\min_x\left\{\text{ext}_x\left[\frac{Area(X)}{4G_N}+S_{semi}\left[\Sigma_{Rad}\cup\Sigma_{Island}\right]\right]\right\}  
+$$
 

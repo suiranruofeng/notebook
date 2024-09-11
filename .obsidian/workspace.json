@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "01918bec4f718921",
+        "id": "ff8defe83a66635e",
         "type": "tabs",
         "children": [
           {
-            "id": "951432a88ac571d1",
+            "id": "a3e8623547bf0309",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Meditations/Modify gravity and holographic dark energy.md",
+                "file": "Cosmology/Holographic Dark energy.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Meditations/Modify gravity and holographic dark energy.md",
+                "file": "Cosmology/Holographic Dark energy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Meditations/Modify gravity and holographic dark energy.md",
+                "file": "Cosmology/Holographic Dark energy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Meditations/Modify gravity and holographic dark energy.md"
+                "file": "Cosmology/Holographic Dark energy.md"
               }
             }
           },
@@ -176,45 +176,44 @@
       "markdown-importer:打开 Markdown 格式转换器": false
     }
   },
-  "active": "951432a88ac571d1",
+  "active": "a3e8623547bf0309",
   "lastOpenFiles": [
-    "Meditations/_attatchments/Pasted image 20240906022341.png",
-    "Meditations/_attatchments/Pasted image 20240906022229.png",
-    "Meditations/_attatchments/Pasted image 20240906022205.png",
-    "Meditations/_attatchments/Pasted image 20240906020923.png",
-    "Cosmology/Holographic Dark energy.md",
-    "Meditations/Modify gravity and holographic dark energy.md",
-    "Meditations/_attatchments/Pasted image 20240906014422.png",
-    "Meditations/Tsallis entropy.md",
-    "Meditations/_attatchments/Pasted image 20240906011315.png",
     "Cosmology/Friedmann equation.md",
-    "Meditations/_attatchments/Pasted image 20240906005137.png",
-    "Meditations/_attatchments/Pasted image 20240906004959.png",
+    "Cosmology/Dirac medal- Entanglement Entropy.md",
     "Cosmology/Entangle entropy.md",
     "Cosmology/_attatchments/Pasted image 20240906001710.png",
+    "Meditations/Entanglement entropy.md",
+    "Meditations/Tsallis entropy.md",
+    "Cosmology/Holographic Dark energy.md",
     "Cosmology/Summary of month 8, 2024.md",
-    "Cosmology/Some models.md",
     "Cosmology/Parameter Constraint.md",
+    "Cosmology/Gauge theory.md",
+    "Cosmology/Constraint dark energy.md",
+    "Meditations/Modify gravity and holographic dark energy.md",
+    "Cosmology/Some models.md",
+    "Meditations/Fractional holographic dark energy.md",
+    "Cosmology/The history of universe.md",
     "Cosmology/Observed Cosmology Revise.md",
     "Cosmology/Newtonian Perturbation Theory.md",
     "Cosmology/Lectures on Quantum Gravity and Black Holes.md",
     "Cosmology/Kolb K-matter.md",
     "Cosmology/Horizon.md",
-    "Cosmology/Dirac medal- Entanglement Entropy.md",
-    "Cosmology/Constraint dark energy.md",
-    "Cosmology/Gauge theory.md",
-    "Meditations/Entanglement entropy.md",
+    "Cosmology/Cosmology.md",
+    "Draft.md",
+    "MLP and KAN.md",
     "Meditations/Code relative.md",
-    "Cosmology/The history of universe.md",
-    "Meditations/Fractional holographic dark energy.md",
+    "Meditations/_attatchments/Pasted image 20240906022341.png",
+    "Meditations/_attatchments/Pasted image 20240906022229.png",
+    "Meditations/_attatchments/Pasted image 20240906022205.png",
+    "Meditations/_attatchments/Pasted image 20240906020923.png",
+    "Meditations/_attatchments/Pasted image 20240906014422.png",
+    "Meditations/_attatchments/Pasted image 20240906011315.png",
+    "Meditations/_attatchments/Pasted image 20240906005137.png",
+    "Meditations/_attatchments/Pasted image 20240906004959.png",
     "Latex.md",
     "Meditations/_attatchments/Pasted image 20240905132139.png",
     "Meditations/_attatchments",
-    "Cosmology/_attatchments/Pasted image 20240903134202.png",
-    "Cosmology/Cosmology.md",
     "踩过的坑.md",
-    "Quantum information and cosmology.md",
-    "Massive black hole.md",
     "Meditations",
     "GW/引力与引力波.pdf",
     "GW/GW_learn.pdf",
