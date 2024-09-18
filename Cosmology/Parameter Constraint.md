@@ -15,9 +15,9 @@ $$\chi^2\equiv \sum_i\frac{(D-y)_{i}}{\sigma_i^2}$$
 从而似然函数变为
 $$\mathcal{L}=\frac{1}{(2\pi)^{\frac{n}{2}}|\det C|}\exp \left[ -\frac{1}{2}\chi^2\right]$$
 无论是SN Ia还是BAO、CMB其参数限制的参数简并方向都是不同的，它们单独对参数的限制并不强，因此需要进行联合的参数限制。我们可以定义总的观测函数
-$$\chi^2_\rm{tot}=\chi^2_\rm{SN}+\chi^2_\rm{BAO}+\chi^2_\rm{CMB}$$
+$$\chi^2_\text{tot}=\chi^2_\text{SN}+\chi^2_\text{BAO}+\chi^2_\text{CMB}$$
 于是可以获得联合后验概率密度分布
-$$\mathcal{P}(\theta|D)=\mathcal{L}(D_\rm{SN}|\theta)\times\mathcal{L}(D_\rm{BAO}|\theta)\times\mathcal{L}(D_\rm{CMB}|\theta)\times\pi(\theta)$$
+$$\mathcal{P}(\theta|D)=\mathcal{L}(D_\text{SN}|\theta)\times\mathcal{L}(D_\text{BAO}|\theta)\times\mathcal{L}(D_\text{CMB}|\theta)\times\pi(\theta)$$
 其中$D$表示数据。$\theta$表示模型的参数，也是我们所要限制的。
 
 MCMC采样原理
@@ -26,8 +26,8 @@ MCMC采样原理
 
 宇宙学中常用工具：
 采样工具：CosmoMC和在其基础上开发的Cobaya
-理论计算工具：**CAMB** 和 **CLASS** 两种独立的Boltzmann求解器，用于计算宇宙学模型的理论预言，特别是CMB功率谱、物质功率谱和其他相关宇宙学量。不同模型需要修改其中代码。
-似然函数计算工具：**Clik** 是一个专门用于处理CMB数据，可以将理论值输入传递给似然函数，理论值和实际值比较，计算出似然。
+理论计算工具：CAMB 和 CLASS 两种独立的Boltzmann求解器，用于计算宇宙学模型的理论预言，特别是CMB功率谱、物质功率谱和其他相关宇宙学量。不同模型需要修改其中代码。
+似然函数计算工具：Clik 是一个专门用于处理CMB数据，可以将理论值输入传递给似然函数，理论值和实际值比较，计算出似然。
 
 
 MC采样的流程

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cosmology/Holographic Dark energy.md",
+                "file": "Cosmology/DDR.md",
                 "mode": "source",
                 "source": false
               }
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 204.5
+    "width": 206.5
   },
   "right": {
     "id": "f50c300e18cc0c97",
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cosmology/Holographic Dark energy.md",
+                "file": "Cosmology/DDR.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cosmology/Holographic Dark energy.md",
+                "file": "Cosmology/DDR.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cosmology/Holographic Dark energy.md"
+                "file": "Cosmology/DDR.md"
               }
             }
           },
@@ -176,32 +176,35 @@
       "markdown-importer:打开 Markdown 格式转换器": false
     }
   },
-  "active": "a3e8623547bf0309",
+  "active": "75229478e52ac6ff",
   "lastOpenFiles": [
     "Cosmology/Friedmann equation.md",
-    "Cosmology/Dirac medal- Entanglement Entropy.md",
-    "Cosmology/Entangle entropy.md",
-    "Cosmology/_attatchments/Pasted image 20240906001710.png",
-    "Meditations/Entanglement entropy.md",
-    "Meditations/Tsallis entropy.md",
+    "Cosmology/DDR.md",
     "Cosmology/Holographic Dark energy.md",
-    "Cosmology/Summary of month 8, 2024.md",
-    "Cosmology/Parameter Constraint.md",
-    "Cosmology/Gauge theory.md",
-    "Cosmology/Constraint dark energy.md",
-    "Meditations/Modify gravity and holographic dark energy.md",
-    "Cosmology/Some models.md",
-    "Meditations/Fractional holographic dark energy.md",
-    "Cosmology/The history of universe.md",
-    "Cosmology/Observed Cosmology Revise.md",
-    "Cosmology/Newtonian Perturbation Theory.md",
     "Cosmology/Lectures on Quantum Gravity and Black Holes.md",
+    "Meditations/Entanglement entropy.md",
+    "Cosmology/Gauge theory.md",
+    "Quantum Field Theory/Preliminary knowledge.md",
+    "Fluid Mechanics.md",
+    "giant planet.md",
+    "Cosmology/Entangle entropy.md",
+    "Cosmology/Summary of month 8, 2024.md",
+    "Cosmology/Dirac medal- Entanglement Entropy.md",
+    "Meditations/Modify gravity and holographic dark energy.md",
+    "Meditations/Tsallis entropy.md",
     "Cosmology/Kolb K-matter.md",
-    "Cosmology/Horizon.md",
+    "Cosmology/Newtonian Perturbation Theory.md",
+    "Cosmology/Observed Cosmology Revise.md",
+    "Cosmology/Parameter Constraint.md",
+    "Cosmology/Some models.md",
+    "Cosmology/The history of universe.md",
     "Cosmology/Cosmology.md",
-    "Draft.md",
-    "MLP and KAN.md",
+    "Meditations/Fractional holographic dark energy.md",
     "Meditations/Code relative.md",
+    "Cosmology/_attatchments/Pasted image 20240906001710.png",
+    "Cosmology/Constraint dark energy.md",
+    "Cosmology/Horizon.md",
+    "Draft.md",
     "Meditations/_attatchments/Pasted image 20240906022341.png",
     "Meditations/_attatchments/Pasted image 20240906022229.png",
     "Meditations/_attatchments/Pasted image 20240906022205.png",
@@ -210,10 +213,8 @@
     "Meditations/_attatchments/Pasted image 20240906011315.png",
     "Meditations/_attatchments/Pasted image 20240906005137.png",
     "Meditations/_attatchments/Pasted image 20240906004959.png",
-    "Latex.md",
     "Meditations/_attatchments/Pasted image 20240905132139.png",
     "Meditations/_attatchments",
-    "踩过的坑.md",
     "Meditations",
     "GW/引力与引力波.pdf",
     "GW/GW_learn.pdf",

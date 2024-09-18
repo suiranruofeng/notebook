@@ -139,6 +139,20 @@ $$
 $$
 \rho_\Lambda=3 \alpha^2 M_p^2 a^{-2(1+\frac{1}{c})}
 $$
+上式的推导
+
+> [!NOTE]
+> 这个式子是怎么求的？
+> $$
+> \begin{align}
+> &3M_p^2H^2=\rho_\Lambda=3c^2M_p^2L^{-2} \\
+> &L==R_H\Rightarrow HR_H=c \\
+> &R_H写成积分形式\Rightarrow Ha \int_0^a \frac{da}{Ha^2}=c \\
+> &\Rightarrow \frac{1}{Ha^2}=c \frac{d}{da}\left(\frac{1}{Ha}\right) \\
+> &该式的解为 H^{-1}=\alpha a^{1+1/c}（可以验证）带进去就是上式
+> \end{align}
+> $$
+
 由能量密度随尺度因子的变化
 $$
 \rho \sim a^{-3(1+w)}
@@ -150,10 +164,16 @@ $$
 $$
 R_h=a \int_t^{\infty}\frac{dt}{a}=a \int_a^\infty \frac{da}{Ha^2}
 $$
-暗能量密度为
+求解方程
+$$
+a\int_a^\infty \frac{da}{Ha^2}=\frac{c}{H}
+$$
+其解为$H^{-1}=\alpha^{-1} a^{1-1/c}$
+则暗能量密度为
 $$
 \rho_\Lambda=3 \alpha^2 M_p^2 a^{-2(1-\frac{1}{c})}
 $$
+其状态参数$w=\rho_\Lambda/p_\Lambda$
 $$
 w=-\frac{1}{3}-\frac{2}{3c}<-\frac{1}{3}
 $$
