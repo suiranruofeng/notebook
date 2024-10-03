@@ -128,3 +128,26 @@ $$
 r=\frac{\dddot{a}}{aH^3},\ \ s^*=\frac{r-1}{3(q-1/2)}
 $$
 ![[Pasted image 20240906022341.png]]
+
+
+---
+f(R)
+
+
+在FRW度规下ricci scalar满足以下约束
+$$
+R=-6\left(\dot{H}+2H^2+\frac{k}{a^2}\right)
+$$
+
+
+$$\frac{1}{2}\left(g_{ab}\left(-f^{(3)}(R)g^{cd}\nabla_c(R)\nabla_d(R)-f''(R)g^{cd}\nabla_d(\nabla_c(R))-f^{(3)}(R)\nabla_c(R)\nabla^c(R)-f''(R)\nabla_c(\nabla^c(R))+f(R)\right)-2f'(R)g_{ac}g_{bd}R^{cd}+2f^{(3)}(R)\nabla_a(R)\nabla_b(R)+f''(R)\nabla_a(\nabla_b(R))+f''(R)\nabla_b(\nabla_a(R))\right)$$
+
+
+---
+
+修改引力的形式
+1. Standard form
+   $$\mathcal{L}=\mathcal{L}(g^{\mu \nu})$$
+2. Palatini form
+3. 'vierbein' Form
+4. Plebanski Form
