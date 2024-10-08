@@ -146,8 +146,48 @@ $$\frac{1}{2}\left(g_{ab}\left(-f^{(3)}(R)g^{cd}\nabla_c(R)\nabla_d(R)-f''(R)g^{
 ---
 
 修改引力的形式
+ref: 修改引力理论与宇宙学（二） - Chauncey的文章 - 知乎
+https://zhuanlan.zhihu.com/p/344975864
 1. Standard form
    $$\mathcal{L}=\mathcal{L}(g^{\mu \nu})$$
 2. Palatini form
 3. 'vierbein' Form
 4. Plebanski Form
+
+
+计划：哪些修改引力理论
+全息暗能量选择一种
+选择一种修改引力，从拉氏量得到场方程，在FRW度规下得到修改后的两个Friedmann方程和连续方程
+用这三个方程得到一个微分方程，采用边界条件和初始条件，然后算出它的解（数值解）
+画图，和其他暗能量模型的修该引力重构比较（一定要是同一种修改模型）
+
+ $f(Q)$是广义对称引力，Symmetric Teleparallel Gravity，曲率（curvature）和挠率（torsion）都是零，引力的几何性质通过“**非度量性**”（non-metricity）来描述。
+ 即，度量张量的协变导数不再为零。即
+ $$
+ Q_{\alpha \mu \nu}=\nabla_\alpha g_{\mu \nu}
+$$
+作用量变成
+$$
+S=\int d^4x \sqrt{-g} f(Q)
+$$
+是一种对称平行的引力（无曲无挠）
+
+$f(T)$是基于 **Teleparallel Gravity**（平行引力理论）的扩展。在平行引力理论中，使用“**扭率**”（torsion）而不是“曲率”（curvature）来描述引力场。
+有挠无曲
+挠率张量的定义
+$$
+T^\rho_{\mu \nu}=\Gamma^\rho_{\nu \mu}-\Gamma^\rho_{\mu \nu}
+$$
+挠率标量
+$$
+T=\frac{1}{2}T^{\mu \nu}_\rho T^\rho_{\mu \nu}
+$$
+作用量
+$$
+S=\int d^4x \sqrt{-g} f(T)
+$$
+
+根据全息暗能量重构修改引力
+用修改引力的宇宙建立全息暗能量（这个更好）
+
+选择哪两个呢？
