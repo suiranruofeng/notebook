@@ -172,6 +172,7 @@ S=\int d^4x \sqrt{-g} f(Q)
 $$
 是一种对称平行的引力（无曲无挠）
 
+
 $f(T)$是基于 **Teleparallel Gravity**（平行引力理论）的扩展。在平行引力理论中，使用“**扭率**”（torsion）而不是“曲率”（curvature）来描述引力场。
 有挠无曲
 挠率张量的定义
@@ -186,8 +187,33 @@ $$
 $$
 S=\int d^4x \sqrt{-g} f(T)
 $$
+$f(P)$
+Palatini 理论：度规和联络视为独立的变量
+---
+标量-张量理论，不仅由一个张量场（即度规张量）来描述，还包含一个或多个标量场。这些标量场与度规张量共同作用，以描述引力的传播和相互作用。
+比如Brane-Dicke theory, 就是典型的其标量是$\phi$用以替代$1/G$
 
+广义的ST理论为Horndeski理论，可以写成
+$$
+S=\frac{1}{16\pi G}\int d^4x \sqrt{-g}[f(\phi)R-K(\phi,\chi)]+S_m 
+$$
+f(R)理论就是其中之一，因为其可以写成
+$$
+S=\frac{1}{2 \kappa}\int d^4x[\phi R-V(\phi)]+S_m
+$$
+其中$\phi=f'(\chi),V(\phi)=\chi(\phi)\phi-f(\chi(\phi))$
+
+我的目标
 根据全息暗能量重构修改引力
 用修改引力的宇宙建立全息暗能量（这个更好）
 
-选择哪两个呢？
+定义张量
+DefTensor确定名称，流形，对称性
+IndexSet分量
+ChangeComponents把所有的逆变的协变的分量都拉满
+ComponentArray用于显示各个分量
+
+$$
+H^2=\frac{1}{3f'(R)}\left(\kappa \rho+ \frac{Rf'(R)-f(R)}{2}-3H \dot{R}f''(R)\right)
+$$
+

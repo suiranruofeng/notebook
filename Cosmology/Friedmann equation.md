@@ -46,11 +46,15 @@ Friedmann第一方程可以写成哈勃参数的形式$H$
 $$
 H^2=\frac{8\pi G}{3}\rho-\frac{kc^2}{a^2 R_0^2}
 $$
+$$
+\frac{H^2}{H_0^2}=\frac{8\pi G}{3H_0^2}(\rho_m+\rho_r+\rho_{de})-\frac{kc^2}{a^2R_0^2H_0^2}
+$$
 定义临界能量密度，指现在时刻的能量密度$t_0$
-$$\rho_{crit}=\frac{3H_0}{8\pi G}$$
-各个物质组分的能量密度
+$$\rho_{crit}=\frac{3H_0^2}{8\pi G}$$
+定义各个物质组分的能量密度(曲率项让系数$-\frac{c^2}{a^2R_0^2}=1$)
 $$\Omega_m=\frac{\rho_m}{\rho_{crit}},\Omega_r=\frac{\rho_r}{\rho_{crit}},\Omega_{de}=\frac{\rho_{de}}{\rho_{crit}},\Omega_k=\frac{k}{H_0^2}$$
-宇宙的膨胀历史由哈勃参量$H(a)=\dot{a}(t)/a(t)$描述$$\frac{H^2}{H_0^2}=\frac{\Omega_m}{a^3}+\frac{\Omega_k}{a^2}+\frac{\Omega_r}{a^4}+\Omega_{de}$$
+宇宙的膨胀历史由哈勃参量$H(a)=\dot{a}(t)/a(t)$描述
+$$E^2(z)=\frac{H^2}{H_0^2}=\frac{\Omega_m}{a^3}+\frac{\Omega_k}{a^2}+\frac{\Omega_r}{a^4}+\Omega_{de}$$
 用状态参数参数化上面的式子
 $$
 \frac{d \ln a}{dt}\approx H_0 \sqrt{\Omega_i}a^{-\frac{2}{3}(1+w_i)}

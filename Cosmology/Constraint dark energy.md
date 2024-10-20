@@ -11,7 +11,7 @@ $$
 $$
 	\mu_{th}(z)=5\log_{10}d_L(z)+\mu_0,\ \mu_0=42.384-5\log_{10}h
 $$
-其中$h=H_0/100 Mpc \cdot km \cdot s^{-1}$，而光度距离为
+其中$h=H_0/100 Mpc \cdot km \cdot s^{-1}$，而光度距离为（只依赖宇宙学模型和红移）
 $$
 d_L(z)=(1+z)|\Omega_k|^{-1/2}sinn\{|\Omega_k|^{1/2}\int^z_0 \frac{cdz'}{H(z')}\}
 $$
