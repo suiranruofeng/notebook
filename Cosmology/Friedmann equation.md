@@ -20,6 +20,13 @@ $$
 \frac{\ddot{a}}{a}=-\frac{4\pi G}{3}\left( \rho+\frac{3P}{c^2} \right)
 \end{align*}
 $$
+另一种写法
+$$
+\begin{align*}
+&\left(\frac{\dot{a}}{a}\right)^2+\frac{K}{a^2}=\frac{8\pi G}{3}\rho\\
+&\left(\frac{\dot{a}}{a}\right)^2+\frac{K}{a^2}+2\frac{\ddot{a}}{a}=-8\pi G p
+\end{align*}
+$$
 其实也可以通过牛顿的方法求得，见Baumann书p47-48
 
 由协变守恒方程
