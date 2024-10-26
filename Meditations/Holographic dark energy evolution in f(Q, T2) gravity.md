@@ -104,6 +104,13 @@ $$
 p &=-\frac{f}{2}+6f_Q H^2+2(\dot{f}_QH+f_Q \dot{H})
 \end{align*}
 $$
+上面两式combined，得出H的演化
+$$
+\dot{H}+\frac{\dot{f}_Q}{f_Q}H=\frac{1}{2f_Q}(1+f_T)(\rho+p)
+$$
+这个方程里面包含了H的信息，为了得到H的具体形式，我们需要知道$p$和$\rho$的具体式子，然后解微分方程，对于物质和暗能量有$p=p_{\text{de}}$，$\rho=\rho_m+\rho_{\text{de}}$
+而$\rho_m$可以从Friedmann方程中得到，当然这需要我们知道$f$的具体式子，我们讨论第一种情况$f=\alpha Q+\beta T$，以及用$w_{\text{de}}p_{\text{de}}=\rho_{\text{de}}$得到$\rho_m,\rho_{\text{de}}$和$H，w_{\text{de}}$的关系式。但是未知数还是有两个$H，w_{\text{de}}$，我们其实只用了一个方程的信息并且假定$\rho_{de}$是全息暗能量
+一共四个未知变量，$\rho_m,\rho_{de},H,p_{de}$，而我们有两个方程，一个假设，消去三个自由度
 修改引力场作为有效密度和压强
 $$
 \begin{align*}
@@ -111,19 +118,16 @@ $$
 -p_{\text{eff}}&=2\dot{H}+3H^2=\frac{f}{4f_Q}-\frac{2\dot{f}_Q H}{f_Q}+\frac{1}{2f_Q}[(1+f_T)\rho +(2+f_T)p]
 \end{align*}
 $$
-等效暗能量的EoS parameter（待验证）
+等效暗能量的EoS parameter（mma计算得出）
 $$
 w_{\text{eff}}=\frac{p_{\text{eff}}}{\rho_{\text{eff}}} = \frac{f - 8\dot{f}_Q H + 2[(1 + f_T)\rho + (2 + f_T)p]}{f - 2[(1 + f_T)\rho + f_T p]}
 $$
-$$
-w_{\text{eff}}=\frac{p_{\text{eff}}}{\rho_{\text{eff}}}=\frac{-f-[(1+f_T)\rho+(2+f_T)p]+8\dot{f}_QH}{f-[(1+f_T)\rho+f_Tp]}
-$$
-EoS parameter
+EoS parameter（好像没什么意义，表示宇宙所有组分的状态）
 $$
 w=\frac{p}{\rho}=-1+\frac{4 f_Q H+f_Q \dot{H}}{(1+f_T)(f-12f_QH^2)-4 f_T(\dot{f}_QH+f_Q \dot{H})}
 $$
 
-deceleration parameter（自己计算的和其有出入）
+deceleration parameter（自己计算的和其有出入，不知道文献怎么得出的，两篇文献皆不相同）
 $$
 	q=-\frac{\ddot{a}a}{\dot{a}^2}=\frac{1}{2}(1+3w)=\frac{1}{2}\left(1+3\frac{p_{\text{eff}}}{\rho_{\text{eff}}}\right)=-1+\frac{3(4\dot{f}_QH-f+2p)}{f-2[(1+f_T)\rho+f_Tp]}
 $$
@@ -131,14 +135,75 @@ $$
 $$
 q=-1+\frac{12\dot{f}_QH-6(1+f_T)(p+\rho)}{f-2[(1+f_T)\rho+f_Tp]}
 $$
-$p=p_{\text{de}}$，$\rho=\rho_m+\rho_{\text{de}}$
+现在讨论一下几个解，就是$H$的具体形式，从而为了可以进行参数限制，我们可以直接把$w_{de}$看作参数，这样就消去一个自由度，结合全息暗能量的假设，就可以解出$H$
+总的物质密度，假设$\rho=p (\gamma-1)$
+$$
+\rho=\rho_m+\rho_{de}=\frac{f-12f_Q H^2}{2(1+\gamma f_T)}
+$$
+---
+$$
+\boxed{\begin{align*}
+3H^2&=\frac{f}{4f_Q}-\frac{1}{2f_Q}[(1+f_T)\rho+f_T p]\\
+2\dot{H}+3H^2&=\frac{f}{4f_Q}-\frac{2\dot{f}_Q H}{f_Q}+\frac{1}{2f_Q}[(1+f_T)\rho +(2+f_T)p]
+\end{align*}
+}
+$$
 
-合并成H的演化
+1) $f=\alpha Q$，以及哈勃视界作为截断的全息暗能量，此时$f_Q=\alpha,f_T=0,f=6\alpha H^2,\rho_{de}=3H^2$
 $$
-\dot{H}+\frac{\dot{f}_Q}{f_Q}H=\frac{1}{2f_Q}(1+f_T)(\rho+p)
+\begin {align}
+\begin {cases}
+3H^2=\frac{6 \alpha H^2}{4 \alpha}-\frac{1}{2\alpha}\rho \\
+2\dot{H}+3H^2=\frac{6\alpha H^2}{4\alpha}+\frac{1}{2\alpha}(\rho+2p)
+\end{cases}
+\end{align}
 $$
-假设
+=>
+$$
+\begin{align*}
+p_{de}&=2\alpha \dot{H}+3 \alpha H^2 \\
+\rho_{de}&=3H^2 \\
+w_{de}&=\frac{2 \alpha \dot{H}+3\alpha H^2}{3H^2}
+\end{align*}
+$$
+哈勃参数的演化$\rho \propto (1+z)^{(1+3w)}$
+$$H(z)=H_0(\Omega_m(1+z)^3+(1-\Omega_{de})^{\frac{2\alpha \dot{H}+3 \alpha H^2}{H^2}})$$
+两个没什么用的计算where $\gamma=w+1$
+$$
+\rho=\frac{f-12FH^2}{2}
+$$
+$$
+\dot{H}=\frac{\gamma}{2\alpha}\rho=\frac{\gamma(f-12FH^2)}{4\alpha}=-\frac{3}{2}\gamma H^2
+$$
+2) $f=\alpha Q+ \beta T=6\alpha H^2+\beta(-\rho+3p), \rho_{de}=3H^2$且$\alpha,\beta$都是和时间无关的参数，$f_Q=\alpha,f_T=\beta$
+由演化方程得到
+$$
+\dot{H}=\frac{1}{2\alpha}(1+\beta)(\rho_m+\rho_{de}+p_{de})
+$$
+由Friedmann第二个式子得到
+$$
+(2+3\beta)p_{de}=6 \alpha H^2+4 \alpha \dot{H}+\beta \rho_m+\beta \rho_{de}
+$$
+带入关系式$p_{de}=\rho_{de}w_{de}$，得到物质的能量密度
+$$
+\rho_{m}=\frac{2 \alpha \dot{H}}{1+\beta}-\rho_{de}(1+w_{de})
+$$
+将上述三个式子合并得
+$$
+\begin{align*}
+(2+4\beta)\rho_{de}w_{de}=\left(6\alpha H^2 + 4\alpha \dot{H}+\frac{2 \alpha \beta \dot{H}}{1+\beta}\right)\\
+(2+4\beta)3H^2w_{de}=\left(6\alpha H^2 + 4\alpha \dot{H}+\frac{2 \alpha \beta \dot{H}}{1+\beta}\right)\\
+[6(1+2\beta)w_{de}-6 \alpha]H^2-4 \alpha \dot{H}=\frac{2 \alpha \beta \dot{H}}{1+\beta}
+\end{align*}
+$$
+$$
+w_{de}=\frac{\frac{4 \alpha+6 \alpha \beta}{1+\beta}\frac{\dot{H}}{H}+6\alpha}{6(1+2\beta)}
+$$
+3) $f=m Q^n+\beta T$
+
+
 S. H. Shekh, Models of holographic dark energy in f ( Q ) gravity, Physics of the Dark Universe **33**, 100850 (2021).
+假设
 $$
 H=k(1+(1+z)^\alpha)
 $$
@@ -210,3 +275,12 @@ w=\left(2-\frac{2\beta}{1+\beta}\right)\frac{\alpha \dot{H}}{3H^2\beta}-1
 $$
 
 
+$$
+\dot{H}+\frac{3(\alpha+1)}{(3\alpha+2)}[H^2+(2\alpha+1)c^2 w_h H^2]=0
+$$
+$$
+H = \left((2a + 1)c^2 \omega_h H_0 e^{-\frac{3(1+\alpha)(2a+1)c^2 \omega_h (t-t_0)}{(3a+2)}}\right)
+$$
+$$
+H(z) = \frac{H_0 - (2a + 1)\omega_h c^2\left[(1 + z)^{-\frac{3(a+1)}{(3a+2)}} - 1\right]}{(1 + z)^{-\frac{3(a+1)}{(3a+2)}}}
+$$
