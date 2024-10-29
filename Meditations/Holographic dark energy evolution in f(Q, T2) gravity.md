@@ -1,11 +1,32 @@
 Evolution of  holographic dark energy models in $f(Q,T^2)$ gravity and cosmic constraint. 
-$f(T)$ 
+$f(T^2)$ 
 The existence of singularities presents a significant challenge in GR because they occur at high energy levels where GR is not valid due to quantum effects. [1]
 To address this problem, 人们引入了energy–momentum squared gravity (EMSG)
 
+广义的仿射联络（general affine connection）
+$$
+\Gamma^\alpha_{\ \mu \nu}=\hat{\Gamma}^\alpha_{\ \mu \nu}+K^\alpha_{\ \mu \nu}+L^\alpha_{\ \mu \nu}
+$$
+其中$\hat{\Gamma}^\alpha_{\ \mu \nu}$是Levi-civita联络，具有无挠性和度规相容性$\nabla g=0$,
+$K^\alpha_{\ \mu \nu}$是contortion tensor，满足
+$$
+ K^{\alpha}_{\,\,\mu\nu} =\frac{1}{2}T^{\alpha}_{\,\,\mu\nu} +T^{\,\,\,\alpha}_{(\mu\,\,\,\nu)} 
+$$
+其中$T^{\alpha}_{\,\,\mu\nu}$是挠率张量
+$L^{\alpha}_{\,\,\mu\nu}$是disformation tensor，满足
+$$ L^{\alpha}_{\,\,\mu\nu} = \frac{1}{2}Q^{\alpha}_{\,\,\mu\nu}-Q^{\,\,\,\alpha}_{(\mu\,\,\,\nu)}$$
+其中$Q^{\alpha}_{\,\,\mu\nu}$是nonmetricity tensor
+$$
+\begin{align*}
+Q_{\rho \mu \nu} &\equiv \nabla_{\rho} g_{\mu\nu} = \partial_\rho g_{\mu\nu} - \Gamma^\beta{}_{\rho\mu} g_{\beta\nu} - \Gamma^\beta{}_{\rho\nu} g_{\mu\beta}~, \\
+T^{\lambda}{}_{\mu\nu} &\equiv
+ \Gamma^{\lambda}{}_{\mu\nu}\!-\!\Gamma^{\lambda}{}_{\nu\mu}~ ,\\
+ R^{\sigma}{}_{\rho\mu\nu} &\equiv \partial_{\mu} \Gamma^{\sigma}{}_{\nu\rho}\! - \! \partial_{\nu} \Gamma^{\sigma}{}_{\mu\rho}\! +\! \Gamma^{\alpha}{}_{\nu\rho}  \Gamma^{\sigma}{}_{\mu\alpha} \!-\!\Gamma^{\alpha}{}_{\mu\rho} \Gamma^{\sigma}{}_{\nu\alpha}~ , 
+\end{align*}
+$$
 
  $f(Q)$是广义对称引力，Symmetric Teleparallel Gravity，曲率（curvature）和挠率（torsion）都是零，引力的几何性质通过“**非度量性**”（non-metricity）来描述。
- 即，度量张量的协变导数不再为零。即非度规性
+ 即，度规张量的协变导数不再为零。即非度规性
  $$
  Q_{\alpha \mu \nu}=\nabla_\alpha g_{\mu \nu}
 $$
@@ -34,7 +55,7 @@ L^\alpha_{\;\beta \gamma}&\equiv \\
 $$
 作用量
 $$
-S=\int(\frac{1}{16\pi}f(Q,T)+\mathcal{L}_m) \sqrt{-g}  d^4x 
+S=\int(\frac{1}{2}f(Q,T)+\mathcal{L}_m) \sqrt{-g}  d^4x 
 $$
 对作用量变分
 $$
@@ -115,7 +136,7 @@ $$
 $$
 \begin{align*}
 \rho_{\text{eff}}&=3H^2=\frac{f}{4f_Q}-\frac{1}{2f_Q}[(1+f_T)\rho+f_T p]\\
--p_{\text{eff}}&=2\dot{H}+3H^2=\frac{f}{4f_Q}-\frac{2\dot{f}_Q H}{f_Q}+\frac{1}{2f_Q}[(1+f_T)\rho +(2+f_T)p]
+-p_{\text{eff}}&=2\dot{H}+3H^2=-\frac{f}{4f_Q}+\frac{2\dot{f}_Q H}{f_Q}-\frac{1}{2f_Q}[(1+f_T)\rho +(2+f_T)p]
 \end{align*}
 $$
 等效暗能量的EoS parameter（mma计算得出）
@@ -144,30 +165,56 @@ $$
 $$
 \boxed{\begin{align*}
 3H^2&=\frac{f}{4f_Q}-\frac{1}{2f_Q}[(1+f_T)\rho+f_T p]\\
-2\dot{H}+3H^2&=\frac{f}{4f_Q}-\frac{2\dot{f}_Q H}{f_Q}+\frac{1}{2f_Q}[(1+f_T)\rho +(2+f_T)p]
+2\dot{H}+3H^2&=-\frac{f}{4f_Q}+\frac{2\dot{f}_Q H}{f_Q}-\frac{1}{2f_Q}[(1+f_T)\rho +(2+f_T)p]
 \end{align*}
 }
 $$
+0) 标准宇宙学 $\rho_{de}=3c^2 H^2$   
+$$
+H(z)=H_0(\Omega_m(1+z)^3+(1-\Omega_m)(1+z)^{3(1+w_{de})})
+$$
+$$
+w_{de}=-\frac{2\dot{H}+3H^2}{3c^2H^2}
+$$
+$$
+H(z)=H_0(\Omega_m(1+z)^3+(1-\Omega_m)(1+z)^{-\frac{2\dot{H}}{H^2}})
+$$
+$$
+2\dot{H}+w_{de}3c^2H^2=0
+$$
+$$
+H(z)=\frac{1}{3c^2w_{de}t-c_0}
+$$
+$$
+\begin{align*}
+&H_0=\frac{1}{3c^2w_{de}t_0-c_0}\\
+&c_0=-\frac{1}{H_0}+3c^2w_{de}t_0 \\
+&H(z)=\frac{H_0}{H_03c^2w_{de}(t-t_0)+1}\\
+&\frac{\dot{a}}{a}=\frac{H_0}{H_03c^2w_{de}(t-t_0)+1}\\
+&a(t)=c_2(1+3c^2H_0(t-t_0)w_{de})^{\frac{1}{3c^2w_{de}}}\\
+&a(t)=a_0(1+3c^2H_0(t-t_0)w_{de})^{\frac{1}{3c^2w_{de}}}
+\end{align*}
+$$
 
-1) $f=\alpha Q$，以及哈勃视界作为截断的全息暗能量，此时$f_Q=\alpha,f_T=0,f=6\alpha H^2,\rho_{de}=3H^2$
+1) $f=\alpha Q$，以及哈勃视界作为截断的全息暗能量，此时$f_Q=\alpha,f_T=0,f=6\alpha H^2,\rho_{de}=3c^2H^2$
 $$
 \begin {align}
 \begin {cases}
 3H^2=\frac{6 \alpha H^2}{4 \alpha}-\frac{1}{2\alpha}\rho \\
-2\dot{H}+3H^2=\frac{6\alpha H^2}{4\alpha}+\frac{1}{2\alpha}(\rho+2p)
+2\dot{H}+3H^2=-\frac{6\alpha H^2}{4\alpha}-\frac{1}{2\alpha}(\rho+2p)
 \end{cases}
 \end{align}
 $$
 =>
 $$
 \begin{align*}
-p_{de}&=2\alpha \dot{H}+3 \alpha H^2 \\
-\rho_{de}&=3H^2 \\
-w_{de}&=\frac{2 \alpha \dot{H}+3\alpha H^2}{3H^2}
+p_{de}&=-(2\alpha \dot{H}+3 \alpha H^2) \\
+\rho_{de}&=3c^2H^2 \\
+w_{de}&=-\frac{2 \alpha \dot{H}+3\alpha H^2}{3c^2H^2}
 \end{align*}
 $$
-哈勃参数的演化$\rho \propto (1+z)^{(1+3w)}$
-$$H(z)=H_0(\Omega_m(1+z)^3+(1-\Omega_{de})^{\frac{2\alpha \dot{H}+3 \alpha H^2}{H^2}})$$
+哈勃参数的演化$\rho \propto (1+z)^{3(1+w)}$
+$$H(z)=H_0(\Omega_m(1+z)^3+(1-\Omega_{m})(1+z)^{\frac{(3-3 \alpha) H^2-2\alpha \dot{H}}{H^2}})$$
 两个没什么用的计算where $\gamma=w+1$
 $$
 \rho=\frac{f-12FH^2}{2}
@@ -283,4 +330,25 @@ H = \left((2a + 1)c^2 \omega_h H_0 e^{-\frac{3(1+\alpha)(2a+1)c^2 \omega_h (t-t_
 $$
 $$
 H(z) = \frac{H_0 - (2a + 1)\omega_h c^2\left[(1 + z)^{-\frac{3(a+1)}{(3a+2)}} - 1\right]}{(1 + z)^{-\frac{3(a+1)}{(3a+2)}}}
+$$
+$$\begin{align}  
+f + Q - 2Qf_Q = 2\rho \\  
+H = \frac{\rho + p}{2(-1 + f_Q + 2Qf_{QQ})}  
+\end{align}$$
+These Eqs. (20) and (21) can be interpreted as symmetric teleparallel equivalent to GR (STG) cosmology with an additional component arising due to non-metricity of space-time which behaves like dark energy fluid part. These dark energy fluid components evolving due to non-metricity are defined by
+
+$$\begin{equation}  
+\rho_{\text{DE}} = -\frac{f}{2} + Qf_Q  
+\end{equation}$$
+
+and
+
+$$\begin{equation}  
+p_{\text{DE}} = -\rho_{\text{DE}} - 2H(f_Q + 2Qf_{QQ})  
+\end{equation}$$
+---
+f(R,T)
+$$
+H = ((2\alpha + 1)c^2\omega_H H_0)e^{-\frac{3(1+\alpha)(2\alpha+1)c^2\omega_H (t-t_0)}{(3\alpha+2)}}/
+\left(((2\alpha + 1)c^2\omega_H) + H_0\left(1 - e^{-\frac{3(1+\alpha)(2\alpha+1)c^2\omega_H (t-t_0)}{(3\alpha+2)}}\right)\right)
 $$
