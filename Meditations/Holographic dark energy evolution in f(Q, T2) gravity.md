@@ -352,3 +352,26 @@ $$
 H = ((2\alpha + 1)c^2\omega_H H_0)e^{-\frac{3(1+\alpha)(2\alpha+1)c^2\omega_H (t-t_0)}{(3\alpha+2)}}/
 \left(((2\alpha + 1)c^2\omega_H) + H_0\left(1 - e^{-\frac{3(1+\alpha)(2\alpha+1)c^2\omega_H (t-t_0)}{(3\alpha+2)}}\right)\right)
 $$
+
+$$
+\frac{\alpha  2^{n-1} 3^{n-2} \left(H(t)^2\right)^{n-2} \left(2 n (-2 \beta +(3 \beta +2) n-1) H'(t)+3 (\beta +1) (2 n-1) H(t)^2\right)}{(\beta +1) (2 \beta +1) c^2}
+$$
+$$\frac{2 \alpha  3^{n-2} \left(\text{H0}^2 \left((z+1)^{2 m}+1\right)\right)^{n-2} \left(\frac{3}{2} (\beta +1) \text{H0}^2 (2 n-1) \left((z+1)^{2 m}+1\right)+\frac{\sqrt{2} \text{H0} m n (z+1)^{2 m-1} (-2 \beta +(3 \beta +2) n-1)}{\sqrt{(z+1)^{2 m}+1}}\right)}{(\beta +1) (2 \beta +1) c^2}$$
+
+
+
+好的,这个复杂的公式可以用 LaTeX 语言表示如下:
+
+$$\omega_\Lambda = \frac{p_\Lambda}{\rho_\Lambda} = \frac{\alpha}{3}\left(-6\right)^n\left[\frac{H_0}{\sqrt{2}}\left(\sqrt{1 + (1 + z)^{2m}}\right)\right]^{2n-2}\left(n - \frac{1}{2}\right) - \frac{\alpha n }{9} \frac{H_0^2}{2}m(1 + z)^{2m}\left(-6\right)^n H^{2n-4}(2n - 1).$$
+
+prev
+$$
+p_{de}=\left[\frac{2\beta}{1+\beta}(n+1)+\frac{2}{3}\alpha n(2n-1)6^n\right]\dot{H}+(2\alpha n-\alpha)(6H^2)^n
+$$
+$$
+    w_{de}=\frac{p_{de}}{\rho_{de}}=\frac{-\frac{1}{2}\left[\frac{2\beta}{1+\beta}(n-1)+\frac{2}{3}\alpha n(2n-1)6^n\right]\dot{H}-\frac{1}{2}\alpha(2n-1)(6H^2)^n}{3c^2H^2}
+$$
+
+$$
+q=-1+\frac{1+\alpha}{e^{\beta t}}
+$$

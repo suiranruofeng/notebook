@@ -27,6 +27,15 @@ $$
 &\left(\frac{\dot{a}}{a}\right)^2+\frac{K}{a^2}+2\frac{\ddot{a}}{a}=-8\pi G p
 \end{align*}
 $$
+可以写成
+$$
+\begin{align*}
+&3H^2+3\frac{K}{a^2}=8\pi G \rho \\
+&3H^2+2\dot{H}+\frac{K}{a^2}=-8\pi G p
+\end{align*}
+$$
+的形式
+
 其实也可以通过牛顿的方法求得，见Baumann书p47-48
 
 由协变守恒方程
