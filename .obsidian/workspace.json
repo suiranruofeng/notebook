@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a3e8623547bf0309",
+            "id": "3e9bbe3321bb0803",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -198,23 +198,24 @@
       "markdown-importer:打开 Markdown 格式转换器": false
     }
   },
-  "active": "a3e8623547bf0309",
+  "active": "3e9bbe3321bb0803",
   "lastOpenFiles": [
-    "Cosmology/Friedmann equation.md",
+    "Meditations/ANN.md",
     "Meditations/Holographic dark energy evolution in f(Q, T2) gravity.md",
+    "Meditations/Entanglement entropy.md",
+    "Cosmology/Holographic Dark energy.md",
+    "Cosmology/Friedmann equation.md",
     "Cosmology/Cosmology.md",
     "Cosmology/The history of universe.md",
     "Cosmology/Newtonian Perturbation Theory.md",
     "Cosmology/DDR.md",
     "Cosmology/DDR2.md",
     "Meditations/Some cosmology models.md",
-    "Meditations/Entanglement entropy.md",
     "Meditations/Code relative.md",
     "Meditations/Draft.md",
     "Cosmology/Parameter Constraint.md",
     "Cosmology/Some models.md",
     "Meditations/Fractional holographic dark energy.md",
-    "Cosmology/Holographic Dark energy.md",
     "Meditations/Modify gravity and holographic dark energy.md",
     "Cosmology/Observed Cosmology Revise.md",
     "Cosmology/Gauge theory.md",
@@ -225,7 +226,6 @@
     "General Relativity/Review GR in short time.md",
     "General Relativity/GR1-Special Relativity.md",
     "General Relativity/GR-Draft.md",
-    "Cosmology/Horizon.md",
     "Cosmology/_attatchments/Pasted image 20240906001710.png",
     "Meditations/_attatchments/Pasted image 20240906022341.png",
     "Meditations/_attatchments/Pasted image 20240906022229.png",

@@ -360,7 +360,6 @@ $$\frac{2 \alpha  3^{n-2} \left(\text{H0}^2 \left((z+1)^{2 m}+1\right)\right)^{n
 
 
 
-好的,这个复杂的公式可以用 LaTeX 语言表示如下:
 
 $$\omega_\Lambda = \frac{p_\Lambda}{\rho_\Lambda} = \frac{\alpha}{3}\left(-6\right)^n\left[\frac{H_0}{\sqrt{2}}\left(\sqrt{1 + (1 + z)^{2m}}\right)\right]^{2n-2}\left(n - \frac{1}{2}\right) - \frac{\alpha n }{9} \frac{H_0^2}{2}m(1 + z)^{2m}\left(-6\right)^n H^{2n-4}(2n - 1).$$
 
@@ -374,4 +373,8 @@ $$
 
 $$
 q=-1+\frac{1+\alpha}{e^{\beta t}}
+$$
+---
+$$
+\frac{\alpha(2n(-2\beta+(3\beta+2)n-1))6^{n-1}((2n-2)H^{2n-3}\dot{H}^2+\ddot{H}H^{2n-2})+\alpha3(\beta+1)(2n-1)6^{n-1}2nH^{2n-1}\dot{H}}{6c^2H \dot{H}(\beta+1)(2\beta+1)}
 $$
