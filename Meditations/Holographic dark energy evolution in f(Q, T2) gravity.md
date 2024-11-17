@@ -8,6 +8,9 @@ $$
 \Gamma^\alpha_{\ \mu \nu}=\hat{\Gamma}^\alpha_{\ \mu \nu}+K^\alpha_{\ \mu \nu}+L^\alpha_{\ \mu \nu}
 $$
 其中$\hat{\Gamma}^\alpha_{\ \mu \nu}$是Levi-civita联络，具有无挠性和度规相容性$\nabla g=0$,
+$$
+\hat{\Gamma}^\alpha_{\ \mu \nu}=\frac{1}{2}g^{\alpha \beta}(\partial_\mu g_{\beta \nu}+\partial_\nu g_{\beta \mu}-\partial_\beta g_{\mu \nu})
+$$
 $K^\alpha_{\ \mu \nu}$是contortion tensor，满足
 $$
  K^{\alpha}_{\,\,\mu\nu} =\frac{1}{2}T^{\alpha}_{\,\,\mu\nu} +T^{\,\,\,\alpha}_{(\mu\,\,\,\nu)} 
@@ -377,4 +380,8 @@ $$
 ---
 $$
 \frac{\alpha(2n(-2\beta+(3\beta+2)n-1))6^{n-1}((2n-2)H^{2n-3}\dot{H}^2+\ddot{H}H^{2n-2})+\alpha3(\beta+1)(2n-1)6^{n-1}2nH^{2n-1}\dot{H}}{6c^2H \dot{H}(\beta+1)(2\beta+1)}
+$$
+
+$$
+H(z)=\frac{H_0}{\sqrt{2}}\sqrt{1+(1+z)^m}
 $$
