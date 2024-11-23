@@ -385,3 +385,87 @@ $$
 $$
 H(z)=\frac{H_0}{\sqrt{2}}\sqrt{1+(1+z)^m}
 $$
+---
+
+$$
+\dot{H}+\frac{\dot{F}}{F}H=\frac{k}{2F}(1+G)(\rho_m+\rho_{de}+p_{de})
+$$
+$$
+\dot{H}+\frac{mn(n-1)(6H^2)^{n-2}}{mn (6H^2)^{n-1}}H=\frac{k}{2mn (6H^2)^{n-1}}(1+\frac{b}{k})(\rho_m+\rho_{de}+w_{de}\rho_{de})
+$$
+$$
+\rho_{tot}=\frac{(6H^2)^n(2n-1)\alpha}{\beta (w-3)-2k}
+$$
+则
+$$
+\rho_m=\frac{(6H^2)^n(2n-1)\alpha}{-3\beta-2k}
+$$
+$$
+\rho_{de}=\frac{(6H^2)^n(2n-1)\alpha}{\beta (w_{de}-3)-2k}
+$$
+上面这么写好像有问题，因为tot是假设$\rho_{tot}+p_{tot}$而$w$是tot的，所以不能单独取$w=0$或者别的什么，要严谨还是得和文章中的一致，就是有点麻烦
+且
+$$
+\rho_{de}=3c^2H^2
+$$
+
+自己推导的
+$$\begin{align}
+
+3H^2&=\frac{f}{4f_Q}-\frac{1}{2f_Q}[(1+f_T)\rho+f_T p]\\
+
+2\dot{H}+3H^2&=\frac{f}{4f_Q}-\frac{2\dot{f}_Q H}{f_Q}+\frac{1}{2f_Q}[(1+f_T)\rho +(2+f_T)p]
+
+\end{align}$$
+相加
+$$
+\dot{H}+3H^2+\frac{\dot{f}_Q}{f_Q}H=\frac{f}{4f_Q}+\frac{1}{2f_Q}p
+$$
+相减
+$$
+\dot{H}+\frac{\dot{f}_Q}{f_Q}H=\frac{1}{2f_Q}(1+f_T)(\rho+p)
+$$
+展开
+$$
+\dot{H}+\frac{\dot{f}_Q}{f_Q}H=\frac{1}{2f_Q}(1+f_T)(\rho_m+\rho_{de}+p_{de})
+$$
+运用$p_{de}=w_{de}\rho_{de}$得
+$$
+\dot{H}+\frac{\dot{f}_Q}{f_Q}H=\frac{1}{2f_Q}(1+f_T)(\rho_m+\rho_{de}+w_{de}\rho_{de})
+$$
+代入
+$$
+\rho_{de}=3c^2H^2
+$$
+得
+$$
+\rho_m=\frac{2f_Q \dot{H}+2\dot{f}_Q H}{1+f_T}-\rho_{de}-w_{de}\rho_{de}
+$$
+$$
+\rho_m=\frac{2f_Q \dot{H}+2\dot{f}_Q H}{1+\beta}-3c^2H^2-w_{de}3c^2H^2
+$$
+根据Friedmann第二的公式可以求得$\rho_m$和$\rho_{de}$的关系，这里$f(Q)$是Q的函数，$f(T)=\beta T$，$T=\rho-3p=\rho_m+\rho_{de}-3p_{de}$
+$$
+12f_Q H^2-f(Q)=\rho_m(-\beta-2)+(-\beta-2-5\beta w_{de})\rho_{de}
+$$
+把$\rho_m$带进去，可以得到
+$$
+12f_Q H^2-f(Q)+\frac{\beta+2}{\beta+1}(2f_Q \dot{H}+2\dot{f}_Q H)=\rho_{de}(2 w_{de}-4 \beta w_{de})
+$$
+---
+$$
+f=\alpha Q+\beta T=\alpha Q+\beta(\rho-3p)
+$$
+$$\begin{align}
+3H^2&=\frac{f}{4\alpha}-\frac{1}{2\alpha}[(1+\beta)\rho+\beta p]\\
+2\dot{H}+3H^2&=\frac{f}{4\alpha}+\frac{1}{2\alpha}[(1+\beta)\rho +(2+\beta)p]
+\end{align}$$
+evolution equation of H
+$$
+2\dot{H}+\frac{1}{\alpha}((1+w_{de})\rho_{de}+\rho_m)=0
+$$
+$$\rho_m = \frac{\alpha  \left((\beta +5 \beta w_{de}+2) H'(t)+3 (\beta +1) (w_{de}+1) H(t)^2\right)}{\left(2 \beta ^2+\beta -1\right) w_{de}}$$
+---
+$$
+H=ba^{-\eta}=b(1+z)^{-\eta}
+$$
